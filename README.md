@@ -1,4 +1,4 @@
-# Simulated Phase 2 Hypertension Trial — CDISC SDTM Build and Data Management
+# Simulated Phase 2 Hypertension Trial. CDISC SDTM Build and Data Management
 
 An end-to-end clinical data pipeline built in SAS on a **simulated** Phase 2
 trial: source data generation, CDISC SDTM domain mapping, and a validated
