@@ -1,0 +1,3256 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://odamid-usw2.oda.sas.com/SASStudio/sasexec/submissions/ca435d70-8aec-426e-959c-318cca757cc2/results
+Subject: Results: 03_edit_checks.sas
+Date: Fri, 18 Sep 2026 17:18:45 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--K3I8cECm4IDG5yQbWuczw2qKV4csxw5kpAqIeSxwYM----"
+
+
+------MultipartBoundary--K3I8cECm4IDG5yQbWuczw2qKV4csxw5kpAqIeSxwYM----
+Content-Type: text/html
+Content-ID: <frame-3E02BA2DEABAE286C4D7384551821B3D@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://odamid-usw2.oda.sas.com/SASStudio/sasexec/submissions/ca435d70-8aec-426e-959c-318cca757cc2/results
+
+<!DOCTYPE html><html class=3D"ods_ca435d70-8aec-426e-959c-318cca757cc2" lan=
+g=3D"en" xml:lang=3D"en" xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta=
+ http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link r=
+el=3D"stylesheet" type=3D"text/css" href=3D"cid:css-feede1c4-b3ea-405b-a02a=
+-0b2b56fd3071@mhtml.blink" />
+
+<meta content=3D"SAS 9.4" name=3D"generator">
+<title>Results:  03_edit_checks.sas</title>
+
+</head>
+<body class=3D"body">
+<div id=3D"div_ca435d70-8aec-426e-959c-318cca757cc2" class=3D"c body">
+<h1 class=3D"body toc">Results: 03_edit_checks.sas</h1>
+<section data-name=3D"SQL" data-sec-type=3D"proc">
+<div id=3D"IDX" class=3D"systitleandfootercontainer" style=3D"border-spacin=
+g: 1px">
+<p><span class=3D"c systemtitle">Edit Check Summary 1: Queries raised by ch=
+eck</span> </p>
+</div>
+<h1 class=3D"contentprocname toc">The SQL Procedure</h1>
+<article aria-label=3D"Query Results">
+<h1 class=3D"contentitem toc">Query Results</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Query Resu=
+lts">
+<caption aria-label=3D"Query Results"></caption>
+<colgroup><col><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"b header" scope=3D"col">Check</th>
+<th class=3D"b header" scope=3D"col">Severity</th>
+<th class=3D"r b header" scope=3D"col">Queries</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"data">AE01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">AE02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">12</td>
+</tr>
+<tr>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"r data">14</td>
+</tr>
+<tr>
+<td class=3D"data">DM01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">DM02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">DS01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">EX01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">EX02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">18</td>
+</tr>
+<tr>
+<td class=3D"data">LB02</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"r data">25</td>
+</tr>
+<tr>
+<td class=3D"data">SV01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">2</td>
+</tr>
+<tr>
+<td class=3D"data">VS01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">VS02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">VS03</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"r data">50</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+<section data-name=3D"Print" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX1" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">Edit Check Summary 3: Critical and major f=
+indings</span> </p>
+</div>
+<h1 class=3D"contentprocname toc">The Print Procedure</h1>
+<article aria-label=3D"Data Set WORK.QUERYLOG">
+<h1 class=3D"contentitem toc">Data Set WORK.QUERYLOG</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Data Set W=
+ORK.QUERYLOG">
+<caption aria-label=3D"Data Set WORK.QUERYLOG"></caption>
+<colgroup><col><col><col><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"header" scope=3D"col">Site</th>
+<th class=3D"header" scope=3D"col">Subject</th>
+<th class=3D"header" scope=3D"col">Check</th>
+<th class=3D"header" scope=3D"col">Severity</th>
+<th class=3D"header" scope=3D"col">Key Values</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-025</td>
+<td class=3D"data">AE01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">Oedema peripheral | START=3D2025-09-11 | END=3D2025-09-0=
+6</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-115</td>
+<td class=3D"data">DM01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">AGE=3D48 | SEX=3DF | RACE=3D</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-153</td>
+<td class=3D"data">EX01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">START=3D2025-04-11 | END=3D2025-04-09</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-036</td>
+<td class=3D"data">LB02</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">WEEK 4 | TEST=3DGLUC | RESULT=3D-3</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-014</td>
+<td class=3D"data">VS01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">WEEK 4 | SYSBP=3D310 | 2025-04-19</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-046</td>
+<td class=3D"data">VS03</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">WEEK 8 | SBP=3D78 | DBP=3D120</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-204</td>
+<td class=3D"data">AE02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Rash | START=3D2025-04-26 | STUDY_DAY=3D-10</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-009</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Oedema peripheral | SEVERITY=3DSEVERE | ACTION=3DDOSE NO=
+T CHANGED</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-111</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Blood potassium increased | SEVERITY=3DSEVERE | ACTION=
+=3DDOSE NOT CHANGED</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-167</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Dizziness | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHANGE=
+D</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-021</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Upper respiratory tract infection | SEVERITY=3DSEVERE | =
+ACTION=3DDOSE NOT CHANGED</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-086</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Headache | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHANGED=
+</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-093</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Blood potassium increased | SEVERITY=3DSEVERE | ACTION=
+=3DDOSE NOT CHANGED</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-104</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Hypotension | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHAN=
+GED</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-173</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Upper respiratory tract infection | SEVERITY=3DSEVERE | =
+ACTION=3DDOSE NOT CHANGED</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-192</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Cough | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHANGED</t=
+d>
+</tr>
+<tr>
+<td class=3D"data">103</td>
+<td class=3D"data">103-022</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Nausea | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHANGED</=
+td>
+</tr>
+<tr>
+<td class=3D"data">103</td>
+<td class=3D"data">103-090</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Upper respiratory tract infection | SEVERITY=3DSEVERE | =
+ACTION=3DDOSE NOT CHANGED</td>
+</tr>
+<tr>
+<td class=3D"data">103</td>
+<td class=3D"data">103-202</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Nausea | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHANGED</=
+td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-082</td>
+<td class=3D"data">DM02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">AGE=3D82</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-007</td>
+<td class=3D"data">DS01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">DISPOSITION=3DCOMPLETED | LAST_VISIT=3D3</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-005</td>
+<td class=3D"data">EX02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">ARM=3DPlacebo | DOSE_RECORDED=3D25mg</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-014</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 12 | TEST=3DAST | RESULT=3D0.8 | U/L | RANGE=3D10.0=
+-40.0</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-057</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 4 | TEST=3DALT | RESULT=3D2.9 | U/L | RANGE=3D7.0-5=
+6.0</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-132</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 4 | TEST=3DALT | RESULT=3D0.7 | U/L | RANGE=3D7.0-5=
+6.0</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-148</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">SCREENING | TEST=3DAST | RESULT=3D4.8 | U/L | RANGE=3D10=
+.0-40.0</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-168</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 12 | TEST=3DAST | RESULT=3D0 | U/L | RANGE=3D10.0-4=
+0.0</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-193</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">FOLLOW-UP WEEK 14 | TEST=3DAST | RESULT=3D1.7 | U/L | RA=
+NGE=3D10.0-40.0</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-218</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 12 | TEST=3DK | RESULT=3D12.5 | mmol/L | RANGE=3D3.=
+5-5.1</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-084</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 12 | TEST=3DAST | RESULT=3D1.7 | U/L | RANGE=3D10.0=
+-40.0</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-102</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 4 | TEST=3DAST | RESULT=3D4 | U/L | RANGE=3D10.0-40=
+.0</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-107</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 12 | TEST=3DALT | RESULT=3D1 | U/L | RANGE=3D7.0-56=
+.0</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-155</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 12 | TEST=3DALT | RESULT=3D1.4 | U/L | RANGE=3D7.0-=
+56.0</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-172</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 4 | TEST=3DALT | RESULT=3D3.1 | U/L | RANGE=3D7.0-5=
+6.0</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-173</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 12 | TEST=3DAST | RESULT=3D1.4 | U/L | RANGE=3D10.0=
+-40.0</td>
+</tr>
+<tr>
+<td class=3D"data">102</td>
+<td class=3D"data">102-216</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">SCREENING | TEST=3DALT | RESULT=3D3.1 | U/L | RANGE=3D7.=
+0-56.0</td>
+</tr>
+<tr>
+<td class=3D"data">103</td>
+<td class=3D"data">103-065</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">SCREENING | TEST=3DALT | RESULT=3D1.6 | U/L | RANGE=3D7.=
+0-56.0</td>
+</tr>
+<tr>
+<td class=3D"data">103</td>
+<td class=3D"data">103-090</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">FOLLOW-UP WEEK 14 | TEST=3DALT | RESULT=3D2.8 | U/L | RA=
+NGE=3D7.0-56.0</td>
+</tr>
+<tr>
+<td class=3D"data">103</td>
+<td class=3D"data">103-144</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 12 | TEST=3DALT | RESULT=3D2.9 | U/L | RANGE=3D7.0-=
+56.0</td>
+</tr>
+<tr>
+<td class=3D"data">103</td>
+<td class=3D"data">103-147</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 4 | TEST=3DALT | RESULT=3D0.9 | U/L | RANGE=3D7.0-5=
+6.0</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-138</td>
+<td class=3D"data">SV01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 8 | ACTUAL_DAY=3D77 | PLANNED_DAY=3D57 | WINDOW=3D+=
+/-5</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-179</td>
+<td class=3D"data">SV01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 2 | ACTUAL_DAY=3D5 | PLANNED_DAY=3D15 | WINDOW=3D+/=
+-3</td>
+</tr>
+<tr>
+<td class=3D"data">101</td>
+<td class=3D"data">101-080</td>
+<td class=3D"data">VS02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">WEEK 2 | PULSE=3D250 | 2025-07-25</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+<section data-name=3D"Print" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX2" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">Edit Check Summary 4: Seeded issue reconci=
+liation</span> </p>
+</div>
+<h1 class=3D"contentprocname toc">The Print Procedure</h1>
+<article aria-label=3D"Data Set WORK.RECON">
+<h1 class=3D"contentitem toc">Data Set WORK.RECON</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Data Set W=
+ORK.RECON">
+<caption aria-label=3D"Data Set WORK.RECON"></caption>
+<colgroup><col><col><col><col><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"header" scope=3D"col">Seeded Issue Identifier</th>
+<th class=3D"header" scope=3D"col">Subject Identifier</th>
+<th class=3D"header" scope=3D"col">Domain Affected</th>
+<th class=3D"header" scope=3D"col">Edit Check Expected to Detect It</th>
+<th class=3D"header" scope=3D"col">Result</th>
+<th class=3D"header" scope=3D"col">Description of Seeded Issue</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"data">SEED-01</td>
+<td class=3D"data">101-014</td>
+<td class=3D"data">VS</td>
+<td class=3D"data">VS01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Systolic BP of 310 mmHg at Week 4</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-02</td>
+<td class=3D"data">101-046</td>
+<td class=3D"data">VS</td>
+<td class=3D"data">VS03</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Systolic BP below diastolic BP at Week 8</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-03</td>
+<td class=3D"data">101-080</td>
+<td class=3D"data">VS</td>
+<td class=3D"data">VS02</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Pulse rate of 250 beats/min at Week 2</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-04</td>
+<td class=3D"data">101-138</td>
+<td class=3D"data">SV</td>
+<td class=3D"data">SV01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Week 8 visit 21 days outside the protocol window</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-05</td>
+<td class=3D"data">101-179</td>
+<td class=3D"data">SV</td>
+<td class=3D"data">SV01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Week 2 visit 10 days outside the protocol window</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-06</td>
+<td class=3D"data">101-218</td>
+<td class=3D"data">LB</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Potassium of 12.5 mmol/L at Week 12</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-07</td>
+<td class=3D"data">102-036</td>
+<td class=3D"data">LB</td>
+<td class=3D"data">LB02</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Negative glucose result at Week 4</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-08</td>
+<td class=3D"data">101-025</td>
+<td class=3D"data">AE</td>
+<td class=3D"data">AE01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Adverse event end date precedes start date</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-09</td>
+<td class=3D"data">101-111</td>
+<td class=3D"data">AE</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Severe adverse event with no action taken on study drug<=
+/td>
+</tr>
+<tr>
+<td class=3D"data">SEED-10</td>
+<td class=3D"data">101-204</td>
+<td class=3D"data">AE</td>
+<td class=3D"data">AE02</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Adverse event onset 10 days before first dose</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-11</td>
+<td class=3D"data">102-082</td>
+<td class=3D"data">DM</td>
+<td class=3D"data">DM02</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Age of 82 exceeds the protocol maximum of 75</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-12</td>
+<td class=3D"data">102-115</td>
+<td class=3D"data">DM</td>
+<td class=3D"data">DM01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Race missing on a required demographic field</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-13</td>
+<td class=3D"data">102-153</td>
+<td class=3D"data">EX</td>
+<td class=3D"data">EX01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Last dose date precedes first dose date</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-14</td>
+<td class=3D"data">101-005</td>
+<td class=3D"data">EX</td>
+<td class=3D"data">EX02</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Placebo subject recorded as receiving 25 mg</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-15</td>
+<td class=3D"data">101-007</td>
+<td class=3D"data">DS</td>
+<td class=3D"data">DS01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Disposition of COMPLETED with last attended visit of 4</=
+td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+<section data-name=3D"SQL" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX3" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">Edit Check Summary 5: Detection rate</span=
+> </p>
+</div>
+<h1 class=3D"contentprocname toc">The SQL Procedure</h1>
+<article aria-label=3D"Query Results">
+<h1 class=3D"contentitem toc">Query Results</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Query Resu=
+lts">
+<caption aria-label=3D"Query Results"></caption>
+<colgroup><col><col><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"r b header" scope=3D"col">Seeded Issues</th>
+<th class=3D"r b header" scope=3D"col">Detected</th>
+<th class=3D"r b header" scope=3D"col">Missed</th>
+<th class=3D"b header" scope=3D"col">Detection Rate (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"r data">15</td>
+<td class=3D"r data">15</td>
+<td class=3D"r data">0</td>
+<td class=3D"data">100.0</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+<section data-name=3D"Print" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX4" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">MHT-2026-001 Data Management Query Log</sp=
+an> </p>
+</div>
+<h1 class=3D"contentprocname toc">The Print Procedure</h1>
+<article aria-label=3D"Data Set WORK.QUERYLOG">
+<h1 class=3D"contentitem toc">Data Set WORK.QUERYLOG</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Data Set W=
+ORK.QUERYLOG">
+<caption aria-label=3D"Data Set WORK.QUERYLOG"></caption>
+<colgroup><col><col><col><col><col><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"r header" scope=3D"col">Query #</th>
+<th class=3D"header" scope=3D"col">Site</th>
+<th class=3D"header" scope=3D"col">Subject</th>
+<th class=3D"header" scope=3D"col">Check</th>
+<th class=3D"header" scope=3D"col">Severity</th>
+<th class=3D"header" scope=3D"col">Query Text</th>
+<th class=3D"header" scope=3D"col">Key Values</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"r data">10</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-025</td>
+<td class=3D"data">AE01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">Adverse event end date precedes the start date. Please c=
+orrect the event dates.</td>
+<td class=3D"data">Oedema peripheral | START=3D2025-09-11 | END=3D2025-09-0=
+6</td>
+</tr>
+<tr>
+<td class=3D"r data">69</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-115</td>
+<td class=3D"data">DM01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">A required demographic field is missing. Please complete=
+ the demographics page.</td>
+<td class=3D"data">AGE=3D48 | SEX=3DF | RACE=3D</td>
+</tr>
+<tr>
+<td class=3D"r data">78</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-153</td>
+<td class=3D"data">EX01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">Last dose date precedes the first dose date. Please corr=
+ect the dosing dates.</td>
+<td class=3D"data">START=3D2025-04-11 | END=3D2025-04-09</td>
+</tr>
+<tr>
+<td class=3D"r data">51</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-036</td>
+<td class=3D"data">LB02</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">Laboratory result is negative, which is not possible for=
+ this test. Please verify the recorded value.</td>
+<td class=3D"data">WEEK 4 | TEST=3DGLUC | RESULT=3D-3</td>
+</tr>
+<tr>
+<td class=3D"r data">5</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-014</td>
+<td class=3D"data">VS01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">Systolic blood pressure is outside the physiologically p=
+lausible range of 60 to 260 mmHg. Please verify the recorded value.</td>
+<td class=3D"data">WEEK 4 | SYSBP=3D310 | 2025-04-19</td>
+</tr>
+<tr>
+<td class=3D"r data">12</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-046</td>
+<td class=3D"data">VS03</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"data">Systolic blood pressure is not greater than diastolic. T=
+he two values may have been transposed at entry.</td>
+<td class=3D"data">WEEK 8 | SBP=3D78 | DBP=3D120</td>
+</tr>
+<tr>
+<td class=3D"r data">43</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-204</td>
+<td class=3D"data">AE02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Adverse event onset precedes the first dose of study dru=
+g. Please confirm the onset date or report the condition as medical history=
+.</td>
+<td class=3D"data">Rash | START=3D2025-04-26 | STUDY_DAY=3D-10</td>
+</tr>
+<tr>
+<td class=3D"r data">3</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-009</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Oedema peripheral | SEVERITY=3DSEVERE | ACTION=3DDOSE NO=
+T CHANGED</td>
+</tr>
+<tr>
+<td class=3D"r data">21</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-111</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Blood potassium increased | SEVERITY=3DSEVERE | ACTION=
+=3DDOSE NOT CHANGED</td>
+</tr>
+<tr>
+<td class=3D"r data">35</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-167</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Dizziness | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHANGE=
+D</td>
+</tr>
+<tr>
+<td class=3D"r data">49</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-021</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Upper respiratory tract infection | SEVERITY=3DSEVERE | =
+ACTION=3DDOSE NOT CHANGED</td>
+</tr>
+<tr>
+<td class=3D"r data">57</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-086</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Headache | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHANGED=
+</td>
+</tr>
+<tr>
+<td class=3D"r data">62</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-093</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Blood potassium increased | SEVERITY=3DSEVERE | ACTION=
+=3DDOSE NOT CHANGED</td>
+</tr>
+<tr>
+<td class=3D"r data">64</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-104</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Hypotension | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHAN=
+GED</td>
+</tr>
+<tr>
+<td class=3D"r data">86</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-173</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Upper respiratory tract infection | SEVERITY=3DSEVERE | =
+ACTION=3DDOSE NOT CHANGED</td>
+</tr>
+<tr>
+<td class=3D"r data">92</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-192</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Cough | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHANGED</t=
+d>
+</tr>
+<tr>
+<td class=3D"r data">106</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-022</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Nausea | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHANGED</=
+td>
+</tr>
+<tr>
+<td class=3D"r data">115</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-090</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Upper respiratory tract infection | SEVERITY=3DSEVERE | =
+ACTION=3DDOSE NOT CHANGED</td>
+</tr>
+<tr>
+<td class=3D"r data">130</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-202</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Severe adverse event recorded with no action taken on st=
+udy drug. Please confirm that dosing continued unchanged.</td>
+<td class=3D"data">Nausea | SEVERITY=3DSEVERE | ACTION=3DDOSE NOT CHANGED</=
+td>
+</tr>
+<tr>
+<td class=3D"r data">55</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-082</td>
+<td class=3D"data">DM02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Age is outside the protocol eligibility range of 18 to 7=
+5 years. Please verify the date of birth.</td>
+<td class=3D"data">AGE=3D82</td>
+</tr>
+<tr>
+<td class=3D"r data">2</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-007</td>
+<td class=3D"data">DS01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Disposition is recorded as COMPLETED but the subject has=
+ no Week 14 follow-up visit. Please confirm completion status.</td>
+<td class=3D"data">DISPOSITION=3DCOMPLETED | LAST_VISIT=3D3</td>
+</tr>
+<tr>
+<td class=3D"r data">1</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-005</td>
+<td class=3D"data">EX02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Recorded dose does not match the randomized treatment ar=
+m. Please verify against the randomization record and the drug accountabili=
+ty log.</td>
+<td class=3D"data">ARM=3DPlacebo | DOSE_RECORDED=3D25mg</td>
+</tr>
+<tr>
+<td class=3D"r data">6</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-014</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 12 | TEST=3DAST | RESULT=3D0.8 | U/L | RANGE=3D10.0=
+-40.0</td>
+</tr>
+<tr>
+<td class=3D"r data">16</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-057</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 4 | TEST=3DALT | RESULT=3D2.9 | U/L | RANGE=3D7.0-5=
+6.0</td>
+</tr>
+<tr>
+<td class=3D"r data">26</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-132</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 4 | TEST=3DALT | RESULT=3D0.7 | U/L | RANGE=3D7.0-5=
+6.0</td>
+</tr>
+<tr>
+<td class=3D"r data">32</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-148</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">SCREENING | TEST=3DAST | RESULT=3D4.8 | U/L | RANGE=3D10=
+.0-40.0</td>
+</tr>
+<tr>
+<td class=3D"r data">36</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-168</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 12 | TEST=3DAST | RESULT=3D0 | U/L | RANGE=3D10.0-4=
+0.0</td>
+</tr>
+<tr>
+<td class=3D"r data">40</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-193</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">FOLLOW-UP WEEK 14 | TEST=3DAST | RESULT=3D1.7 | U/L | RA=
+NGE=3D10.0-40.0</td>
+</tr>
+<tr>
+<td class=3D"r data">46</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-218</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 12 | TEST=3DK | RESULT=3D12.5 | mmol/L | RANGE=3D3.=
+5-5.1</td>
+</tr>
+<tr>
+<td class=3D"r data">56</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-084</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 12 | TEST=3DAST | RESULT=3D1.7 | U/L | RANGE=3D10.0=
+-40.0</td>
+</tr>
+<tr>
+<td class=3D"r data">63</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-102</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 4 | TEST=3DAST | RESULT=3D4 | U/L | RANGE=3D10.0-40=
+.0</td>
+</tr>
+<tr>
+<td class=3D"r data">67</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-107</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 12 | TEST=3DALT | RESULT=3D1 | U/L | RANGE=3D7.0-56=
+.0</td>
+</tr>
+<tr>
+<td class=3D"r data">79</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-155</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 12 | TEST=3DALT | RESULT=3D1.4 | U/L | RANGE=3D7.0-=
+56.0</td>
+</tr>
+<tr>
+<td class=3D"r data">84</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-172</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 4 | TEST=3DALT | RESULT=3D3.1 | U/L | RANGE=3D7.0-5=
+6.0</td>
+</tr>
+<tr>
+<td class=3D"r data">85</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-173</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 12 | TEST=3DAST | RESULT=3D1.4 | U/L | RANGE=3D10.0=
+-40.0</td>
+</tr>
+<tr>
+<td class=3D"r data">103</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-216</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">SCREENING | TEST=3DALT | RESULT=3D3.1 | U/L | RANGE=3D7.=
+0-56.0</td>
+</tr>
+<tr>
+<td class=3D"r data">112</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-065</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">SCREENING | TEST=3DALT | RESULT=3D1.6 | U/L | RANGE=3D7.=
+0-56.0</td>
+</tr>
+<tr>
+<td class=3D"r data">114</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-090</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">FOLLOW-UP WEEK 14 | TEST=3DALT | RESULT=3D2.8 | U/L | RA=
+NGE=3D7.0-56.0</td>
+</tr>
+<tr>
+<td class=3D"r data">120</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-144</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 12 | TEST=3DALT | RESULT=3D2.9 | U/L | RANGE=3D7.0-=
+56.0</td>
+</tr>
+<tr>
+<td class=3D"r data">122</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-147</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Laboratory result is grossly outside the reference range=
+. Please confirm the result and the units reported.</td>
+<td class=3D"data">WEEK 4 | TEST=3DALT | RESULT=3D0.9 | U/L | RANGE=3D7.0-5=
+6.0</td>
+</tr>
+<tr>
+<td class=3D"r data">27</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-138</td>
+<td class=3D"data">SV01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Visit occurred outside the protocol visit window. Please=
+ confirm the visit date and record a protocol deviation.</td>
+<td class=3D"data">WEEK 8 | ACTUAL_DAY=3D77 | PLANNED_DAY=3D57 | WINDOW=3D+=
+/-5</td>
+</tr>
+<tr>
+<td class=3D"r data">38</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-179</td>
+<td class=3D"data">SV01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Visit occurred outside the protocol visit window. Please=
+ confirm the visit date and record a protocol deviation.</td>
+<td class=3D"data">WEEK 2 | ACTUAL_DAY=3D5 | PLANNED_DAY=3D15 | WINDOW=3D+/=
+-3</td>
+</tr>
+<tr>
+<td class=3D"r data">19</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-080</td>
+<td class=3D"data">VS02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"data">Pulse rate is outside the plausible range of 30 to 200 b=
+eats per minute. Please verify the recorded value.</td>
+<td class=3D"data">WEEK 2 | PULSE=3D250 | 2025-07-25</td>
+</tr>
+<tr>
+<td class=3D"r data">4</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-010</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DGLUC</td>
+</tr>
+<tr>
+<td class=3D"r data">7</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-014</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DGLUC</td>
+</tr>
+<tr>
+<td class=3D"r data">8</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-016</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DGLUC</td>
+</tr>
+<tr>
+<td class=3D"r data">20</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-081</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DPLAT</td>
+</tr>
+<tr>
+<td class=3D"r data">28</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-138</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DALT</td>
+</tr>
+<tr>
+<td class=3D"r data">37</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-171</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DWBC</td>
+</tr>
+<tr>
+<td class=3D"r data">50</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-029</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DHCT</td>
+</tr>
+<tr>
+<td class=3D"r data">53</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-072</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DHGB</td>
+</tr>
+<tr>
+<td class=3D"r data">54</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-078</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DPLAT</td>
+</tr>
+<tr>
+<td class=3D"r data">60</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-091</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DGLUC</td>
+</tr>
+<tr>
+<td class=3D"r data">61</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-091</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DK</td>
+</tr>
+<tr>
+<td class=3D"r data">68</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-114</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DK</td>
+</tr>
+<tr>
+<td class=3D"r data">74</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-152</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DCREAT</td>
+</tr>
+<tr>
+<td class=3D"r data">91</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-192</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DHCT</td>
+</tr>
+<tr>
+<td class=3D"r data">99</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-199</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DWBC</td>
+</tr>
+<tr>
+<td class=3D"r data">102</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-208</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DHGB</td>
+</tr>
+<tr>
+<td class=3D"r data">109</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-027</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DHCT</td>
+</tr>
+<tr>
+<td class=3D"r data">110</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-058</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DWBC</td>
+</tr>
+<tr>
+<td class=3D"r data">113</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-067</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DK</td>
+</tr>
+<tr>
+<td class=3D"r data">117</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-100</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DK</td>
+</tr>
+<tr>
+<td class=3D"r data">118</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-137</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DPLAT</td>
+</tr>
+<tr>
+<td class=3D"r data">119</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-139</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DK</td>
+</tr>
+<tr>
+<td class=3D"r data">123</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-181</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DPLAT</td>
+</tr>
+<tr>
+<td class=3D"r data">124</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-181</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DWBC</td>
+</tr>
+<tr>
+<td class=3D"r data">127</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-200</td>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">No baseline result is available for this laboratory test=
+. The screening sample appears to be missing.</td>
+<td class=3D"data">TEST=3DAST</td>
+</tr>
+<tr>
+<td class=3D"r data">14</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-056</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 8 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">15</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-056</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 8 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">17</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-077</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">18</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-077</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">22</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-125</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">SCREENING | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">23</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-125</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">SCREENING | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">24</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-130</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">BASELINE | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">25</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-130</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">BASELINE | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">29</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-141</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 8 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">30</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-141</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 8 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">33</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-167</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">34</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-167</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">41</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-198</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 2 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">42</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-198</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 2 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">44</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-214</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">BASELINE | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">45</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-214</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">BASELINE | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">58</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-088</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">59</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-088</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">65</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-107</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">FOLLOW-UP WEEK 14 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">66</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-107</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">FOLLOW-UP WEEK 14 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">70</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-142</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">FOLLOW-UP WEEK 14 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">71</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-142</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">FOLLOW-UP WEEK 14 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">72</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-152</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">FOLLOW-UP WEEK 14 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">73</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-152</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">FOLLOW-UP WEEK 14 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">75</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-153</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">BASELINE | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">76</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-153</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">BASELINE | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">80</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-160</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 8 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">81</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-160</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 8 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">82</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-162</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">SCREENING | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">83</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-162</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">SCREENING | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">87</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-175</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">SCREENING | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">88</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-175</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">SCREENING | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">89</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-190</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">90</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-190</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">93</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-195</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 2 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">94</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-195</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 2 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">95</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-195</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">96</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-195</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">97</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-196</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 8 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">98</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-196</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 8 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">100</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-203</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 12 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">101</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-203</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 12 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">104</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-220</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">105</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-220</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">107</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-027</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 12 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">108</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-027</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 12 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">128</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-202</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">129</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-202</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">WEEK 4 | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">131</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-215</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">BASELINE | TEST=3DDIABP</td>
+</tr>
+<tr>
+<td class=3D"r data">132</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-215</td>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"data">A vital sign required by the protocol at this visit has =
+no result recorded. Please enter the result or mark the assessment as not d=
+one with a reason.</td>
+<td class=3D"data">BASELINE | TEST=3DSYSBP</td>
+</tr>
+<tr>
+<td class=3D"r data">9</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-023</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Hypotension | SEVERITY=3DMILD | START=3D2025-07-16</td>
+</tr>
+<tr>
+<td class=3D"r data">11</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-037</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Blood potassium increased | SEVERITY=3DMODERATE | START=
+=3D2025-03-08</td>
+</tr>
+<tr>
+<td class=3D"r data">13</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-055</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Dizziness | SEVERITY=3DSEVERE | START=3D2025-06-19</td>
+</tr>
+<tr>
+<td class=3D"r data">31</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-141</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Nausea | SEVERITY=3DMODERATE | START=3D2025-05-27</td>
+</tr>
+<tr>
+<td class=3D"r data">39</td>
+<td class=3D"data">101</td>
+<td class=3D"data">101-180</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Dizziness | SEVERITY=3DMODERATE | START=3D2025-05-12</td=
+>
+</tr>
+<tr>
+<td class=3D"r data">47</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-003</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Dizziness | SEVERITY=3DMILD | START=3D2025-04-18</td>
+</tr>
+<tr>
+<td class=3D"r data">48</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-011</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Fatigue | SEVERITY=3DMILD | START=3D2025-05-11</td>
+</tr>
+<tr>
+<td class=3D"r data">52</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-039</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Fatigue | SEVERITY=3DMODERATE | START=3D2025-07-09</td>
+</tr>
+<tr>
+<td class=3D"r data">77</td>
+<td class=3D"data">102</td>
+<td class=3D"data">102-153</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Dizziness | SEVERITY=3DMODERATE | START=3D2025-05-16</td=
+>
+</tr>
+<tr>
+<td class=3D"r data">111</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-062</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Upper respiratory tract infection | SEVERITY=3DMODERATE =
+| START=3D2025-02-27</td>
+</tr>
+<tr>
+<td class=3D"r data">116</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-090</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Upper respiratory tract infection | SEVERITY=3DSEVERE | =
+START=3D2025-08-09</td>
+</tr>
+<tr>
+<td class=3D"r data">121</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-144</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Oedema peripheral | SEVERITY=3DMODERATE | START=3D2025-0=
+8-04</td>
+</tr>
+<tr>
+<td class=3D"r data">125</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-182</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Headache | SEVERITY=3DMILD | START=3D2025-06-06</td>
+</tr>
+<tr>
+<td class=3D"r data">126</td>
+<td class=3D"data">103</td>
+<td class=3D"data">103-183</td>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"data">Serious adverse event requires reconciliation against th=
+e safety database before database lock.</td>
+<td class=3D"data">Dizziness | SEVERITY=3DMILD | START=3D2025-07-23</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+<section data-name=3D"SQL" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX5" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">Queries by Check</span> </p>
+</div>
+<h1 class=3D"contentprocname toc">The SQL Procedure</h1>
+<article aria-label=3D"Query Results">
+<h1 class=3D"contentitem toc">Query Results</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Query Resu=
+lts">
+<caption aria-label=3D"Query Results"></caption>
+<colgroup><col><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"b header" scope=3D"col">Check</th>
+<th class=3D"b header" scope=3D"col">Severity</th>
+<th class=3D"r b header" scope=3D"col">Queries</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"data">AE01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">AE02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">AE03</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">12</td>
+</tr>
+<tr>
+<td class=3D"data">AE05</td>
+<td class=3D"data">INFO</td>
+<td class=3D"r data">14</td>
+</tr>
+<tr>
+<td class=3D"data">DM01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">DM02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">DS01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">EX01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">EX02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">LB01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">18</td>
+</tr>
+<tr>
+<td class=3D"data">LB02</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">LB03</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"r data">25</td>
+</tr>
+<tr>
+<td class=3D"data">SV01</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">2</td>
+</tr>
+<tr>
+<td class=3D"data">VS01</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">VS02</td>
+<td class=3D"data">MAJOR</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">VS03</td>
+<td class=3D"data">CRITICAL</td>
+<td class=3D"r data">1</td>
+</tr>
+<tr>
+<td class=3D"data">VS06</td>
+<td class=3D"data">MINOR</td>
+<td class=3D"r data">50</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+<section data-name=3D"Print" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX6" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">Edit Check Validation: Seeded Issue Reconc=
+iliation</span> </p>
+</div>
+<h1 class=3D"contentprocname toc">The Print Procedure</h1>
+<article aria-label=3D"Data Set WORK.RECON">
+<h1 class=3D"contentitem toc">Data Set WORK.RECON</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Data Set W=
+ORK.RECON">
+<caption aria-label=3D"Data Set WORK.RECON"></caption>
+<colgroup><col><col><col><col><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"header" scope=3D"col">Seeded Issue Identifier</th>
+<th class=3D"header" scope=3D"col">Subject Identifier</th>
+<th class=3D"header" scope=3D"col">Domain Affected</th>
+<th class=3D"header" scope=3D"col">Edit Check Expected to Detect It</th>
+<th class=3D"header" scope=3D"col">Result</th>
+<th class=3D"header" scope=3D"col">Description of Seeded Issue</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"data">SEED-01</td>
+<td class=3D"data">101-014</td>
+<td class=3D"data">VS</td>
+<td class=3D"data">VS01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Systolic BP of 310 mmHg at Week 4</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-02</td>
+<td class=3D"data">101-046</td>
+<td class=3D"data">VS</td>
+<td class=3D"data">VS03</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Systolic BP below diastolic BP at Week 8</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-03</td>
+<td class=3D"data">101-080</td>
+<td class=3D"data">VS</td>
+<td class=3D"data">VS02</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Pulse rate of 250 beats/min at Week 2</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-04</td>
+<td class=3D"data">101-138</td>
+<td class=3D"data">SV</td>
+<td class=3D"data">SV01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Week 8 visit 21 days outside the protocol window</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-05</td>
+<td class=3D"data">101-179</td>
+<td class=3D"data">SV</td>
+<td class=3D"data">SV01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Week 2 visit 10 days outside the protocol window</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-06</td>
+<td class=3D"data">101-218</td>
+<td class=3D"data">LB</td>
+<td class=3D"data">LB01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Potassium of 12.5 mmol/L at Week 12</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-07</td>
+<td class=3D"data">102-036</td>
+<td class=3D"data">LB</td>
+<td class=3D"data">LB02</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Negative glucose result at Week 4</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-08</td>
+<td class=3D"data">101-025</td>
+<td class=3D"data">AE</td>
+<td class=3D"data">AE01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Adverse event end date precedes start date</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-09</td>
+<td class=3D"data">101-111</td>
+<td class=3D"data">AE</td>
+<td class=3D"data">AE03</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Severe adverse event with no action taken on study drug<=
+/td>
+</tr>
+<tr>
+<td class=3D"data">SEED-10</td>
+<td class=3D"data">101-204</td>
+<td class=3D"data">AE</td>
+<td class=3D"data">AE02</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Adverse event onset 10 days before first dose</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-11</td>
+<td class=3D"data">102-082</td>
+<td class=3D"data">DM</td>
+<td class=3D"data">DM02</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Age of 82 exceeds the protocol maximum of 75</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-12</td>
+<td class=3D"data">102-115</td>
+<td class=3D"data">DM</td>
+<td class=3D"data">DM01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Race missing on a required demographic field</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-13</td>
+<td class=3D"data">102-153</td>
+<td class=3D"data">EX</td>
+<td class=3D"data">EX01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Last dose date precedes first dose date</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-14</td>
+<td class=3D"data">101-005</td>
+<td class=3D"data">EX</td>
+<td class=3D"data">EX02</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Placebo subject recorded as receiving 25 mg</td>
+</tr>
+<tr>
+<td class=3D"data">SEED-15</td>
+<td class=3D"data">101-007</td>
+<td class=3D"data">DS</td>
+<td class=3D"data">DS01</td>
+<td class=3D"data">DETECTED</td>
+<td class=3D"data">Disposition of COMPLETED with last attended visit of 4</=
+td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+</div>
+
+
+</body></html>
+------MultipartBoundary--K3I8cECm4IDG5yQbWuczw2qKV4csxw5kpAqIeSxwYM----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-feede1c4-b3ea-405b-a02a-0b2b56fd3071@mhtml.blink
+
+@charset "utf-8";
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .body.c section > table, .ods_ca4=
+35d70-8aec-426e-959c-318cca757cc2 .body.c section > pre, .ods_ca435d70-8aec=
+-426e-959c-318cca757cc2 .body.c div > table, .ods_ca435d70-8aec-426e-959c-3=
+18cca757cc2 .body.c div > pre, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .b=
+ody.c article > table, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .body.c ar=
+ticle > pre, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .body.j section > ta=
+ble, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .body.j section > pre, .ods_=
+ca435d70-8aec-426e-959c-318cca757cc2 .body.j div > table, .ods_ca435d70-8ae=
+c-426e-959c-318cca757cc2 .body.j div > pre, .ods_ca435d70-8aec-426e-959c-31=
+8cca757cc2 .body.j article > table, .ods_ca435d70-8aec-426e-959c-318cca757c=
+c2 .body.j article > pre, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .body.c=
+ p.note, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .body.c p.warning, .ods_=
+ca435d70-8aec-426e-959c-318cca757cc2 .body.c p.error, .ods_ca435d70-8aec-42=
+6e-959c-318cca757cc2 .body.c p.fatal, .ods_ca435d70-8aec-426e-959c-318cca75=
+7cc2 .body.j p.note, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .body.j p.wa=
+rning, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .body.j p.error, .ods_ca43=
+5d70-8aec-426e-959c-318cca757cc2 .body.j p.fatal, .ods_ca435d70-8aec-426e-9=
+59c-318cca757cc2 .body.c > table.layoutcontainer, .ods_ca435d70-8aec-426e-9=
+59c-318cca757cc2 .body.j > table.layoutcontainer { margin-left: auto; margi=
+n-right: auto; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .layoutregion.l table, .ods_ca435=
+d70-8aec-426e-959c-318cca757cc2 .layoutregion.l pre, .ods_ca435d70-8aec-426=
+e-959c-318cca757cc2 .layoutregion.l p.note, .ods_ca435d70-8aec-426e-959c-31=
+8cca757cc2 .layoutregion.l p.warning, .ods_ca435d70-8aec-426e-959c-318cca75=
+7cc2 .layoutregion.l p.error, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .la=
+youtregion.l p.fatal { margin-left: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .layoutregion.c table, .ods_ca435=
+d70-8aec-426e-959c-318cca757cc2 .layoutregion.c pre, .ods_ca435d70-8aec-426=
+e-959c-318cca757cc2 .layoutregion.c p.note, .ods_ca435d70-8aec-426e-959c-31=
+8cca757cc2 .layoutregion.c p.warning, .ods_ca435d70-8aec-426e-959c-318cca75=
+7cc2 .layoutregion.c p.error, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .la=
+youtregion.c p.fatal { margin-left: auto; margin-right: auto; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .layoutregion.r table, .ods_ca435=
+d70-8aec-426e-959c-318cca757cc2 .layoutregion.r pre, .ods_ca435d70-8aec-426=
+e-959c-318cca757cc2 .layoutregion.r p.note, .ods_ca435d70-8aec-426e-959c-31=
+8cca757cc2 .layoutregion.r table, .ods_ca435d70-8aec-426e-959c-318cca757cc2=
+ .layoutregion.r pre, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .layoutregi=
+on.r p.note, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .layoutregion.r p.wa=
+rning, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .layoutregion.r p.error, .=
+ods_ca435d70-8aec-426e-959c-318cca757cc2 .layoutregion.r p.fatal { margin-r=
+ight: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 article, .ods_ca435d70-8aec-426e-=
+959c-318cca757cc2 aside, .ods_ca435d70-8aec-426e-959c-318cca757cc2 details,=
+ .ods_ca435d70-8aec-426e-959c-318cca757cc2 figcaption, .ods_ca435d70-8aec-4=
+26e-959c-318cca757cc2 figure, .ods_ca435d70-8aec-426e-959c-318cca757cc2 foo=
+ter, .ods_ca435d70-8aec-426e-959c-318cca757cc2 header, .ods_ca435d70-8aec-4=
+26e-959c-318cca757cc2 hgroup, .ods_ca435d70-8aec-426e-959c-318cca757cc2 nav=
+, .ods_ca435d70-8aec-426e-959c-318cca757cc2 section { display: block; }
+
+html.ods_ca435d70-8aec-426e-959c-318cca757cc2 { font-size: 100%; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .body { margin: 1em; font-size: 1=
+3px; line-height: 1.231; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 sup { position: relative; vertica=
+l-align: baseline; bottom: 0.25em; font-size: 0.8em; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 sub { position: relative; vertica=
+l-align: baseline; top: 0.25em; font-size: 0.8em; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 ul, .ods_ca435d70-8aec-426e-959c-=
+318cca757cc2 ol { margin: 1em 0px; padding: 0px 0px 0px 40px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 dd { margin: 0px 0px 0px 40px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 nav ul, .ods_ca435d70-8aec-426e-9=
+59c-318cca757cc2 nav ol { list-style: none none; margin: 0px; padding: 0px;=
+ }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 img { border: 0px; vertical-align=
+: middle; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 svg:not(:root) { overflow: hidden=
+; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 figure { margin: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 table { border-collapse: collapse=
+; border-spacing: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .layoutcontainer { border-collaps=
+e: separate; border-spacing: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 p { margin-top: 0px; text-align: =
+left; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 h1.heading1 { text-align: left; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 h2.heading2 { text-align: left; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 h3.heading3 { text-align: left; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 h4.heading4 { text-align: left; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 h5.heading5 { text-align: left; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 h6.heading6 { text-align: left; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 span { text-align: left; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 table { margin-bottom: 1em; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 td, .ods_ca435d70-8aec-426e-959c-=
+318cca757cc2 th { text-align: left; padding: 3px 6px; vertical-align: top; =
+}
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 td[class$=3D"fixed"], .ods_ca435d=
+70-8aec-426e-959c-318cca757cc2 th[class$=3D"fixed"] { white-space: pre; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 section, .ods_ca435d70-8aec-426e-=
+959c-318cca757cc2 article { padding-top: 1px; padding-bottom: 8px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 hr.pagebreak { height: 0px; borde=
+r-width: 0px 0px 1px; border-style: none none solid; border-color: currentc=
+olor currentcolor rgb(192, 192, 192); border-image: none; margin: 1em 0px; =
+}
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .stacked-value { text-align: left=
+; display: block; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .stacked-cell > .stacked-value, .=
+ods_ca435d70-8aec-426e-959c-318cca757cc2 td.data > td.data, .ods_ca435d70-8=
+aec-426e-959c-318cca757cc2 th.data > td.data, .ods_ca435d70-8aec-426e-959c-=
+318cca757cc2 th.data > th.data, .ods_ca435d70-8aec-426e-959c-318cca757cc2 t=
+d.data > th.data, .ods_ca435d70-8aec-426e-959c-318cca757cc2 th.header > th.=
+header { border: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .stacked-cell > div.data { border=
+-width: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .systitleandfootercontainer { whi=
+te-space: nowrap; margin-bottom: 1em; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .systitleandfootercontainer > p {=
+ margin: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .systitleandfootercontainer > p >=
+ span { display: inline-block; width: 100%; white-space: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .batch { display: table; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .toc { display: none; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .proc_note_group, .ods_ca435d70-8=
+aec-426e-959c-318cca757cc2 .proc_title_group { margin-bottom: 1em; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 p.proctitle { margin: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 p.note, .ods_ca435d70-8aec-426e-9=
+59c-318cca757cc2 p.warning, .ods_ca435d70-8aec-426e-959c-318cca757cc2 p.err=
+or, .ods_ca435d70-8aec-426e-959c-318cca757cc2 p.fatal { display: table; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .notebanner, .ods_ca435d70-8aec-4=
+26e-959c-318cca757cc2 .warnbanner, .ods_ca435d70-8aec-426e-959c-318cca757cc=
+2 .errorbanner, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .fatalbanner, .od=
+s_ca435d70-8aec-426e-959c-318cca757cc2 .notecontent, .ods_ca435d70-8aec-426=
+e-959c-318cca757cc2 .warncontent, .ods_ca435d70-8aec-426e-959c-318cca757cc2=
+ .errorcontent, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .fatalcontent { d=
+isplay: table-cell; padding: 0.5em; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .notebanner, .ods_ca435d70-8aec-4=
+26e-959c-318cca757cc2 .warnbanner, .ods_ca435d70-8aec-426e-959c-318cca757cc=
+2 .errorbanner, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .fatalbanner { pa=
+dding-right: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .body > div > ol li { text-align:=
+ left; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .beforecaption > h4 { margin-top:=
+ 0px; margin-bottom: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .c { text-align: center; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .r { text-align: right; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .l { text-align: left; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .j { text-align: justify; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .d { text-align: right; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .b { vertical-align: bottom; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .m { vertical-align: middle; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .t { vertical-align: top; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .accessiblecaption { background-c=
+olor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Alb=
+any AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-wei=
+ght: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 a:active { color: rgb(128, 0, 128=
+); }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .aftercaption { background-color:=
+ rgb(250, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-fam=
+ily: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: =
+normal; font-weight: bold; padding-top: 4pt; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .batch > colgroup { border-left: =
+1px solid rgb(193, 193, 193); border-right: 1px solid rgb(193, 193, 193); }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .batch > tbody, .ods_ca435d70-8ae=
+c-426e-959c-318cca757cc2 .batch > thead, .ods_ca435d70-8aec-426e-959c-318cc=
+a757cc2 .batch > tfoot { border-top: 1px solid rgb(193, 193, 193); border-b=
+ottom: 1px solid rgb(193, 193, 193); }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .batch { border: hidden; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .batch { background-color: rgb(25=
+0, 251, 254); border: 1px solid rgb(193, 193, 193); border-collapse: separa=
+te; border-spacing: 1px; color: rgb(0, 0, 0); font-family: "SAS Monospace",=
+ "Courier New", Courier, monospace; font-size: x-small; font-style: normal;=
+ font-weight: normal; padding: 7px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .beforecaption { background-color=
+: rgb(250, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-fa=
+mily: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style:=
+ normal; font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .body { background-color: rgb(250=
+, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helveti=
+ca, Helv; font-size: x-small; font-style: normal; font-weight: normal; marg=
+in-left: 8px; margin-right: 8px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .bodydate { background-color: rgb=
+(250, 251, 254); border-spacing: 0px; color: rgb(0, 0, 0); font-family: Ari=
+al, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; =
+font-weight: normal; text-align: right; vertical-align: top; width: 100%; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .bycontentfolder { color: rgb(0, =
+0, 0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-smal=
+l; font-style: normal; font-weight: normal; list-style-type: none; margin-l=
+eft: 6pt; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .byline { background-color: rgb(2=
+50, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-family: A=
+rial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal=
+; font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .bylinecontainer > col, .ods_ca43=
+5d70-8aec-426e-959c-318cca757cc2 .bylinecontainer > colgroup > col, .ods_ca=
+435d70-8aec-426e-959c-318cca757cc2 .bylinecontainer > colgroup, .ods_ca435d=
+70-8aec-426e-959c-318cca757cc2 .bylinecontainer > tr, .ods_ca435d70-8aec-42=
+6e-959c-318cca757cc2 .bylinecontainer > * > tr, .ods_ca435d70-8aec-426e-959=
+c-318cca757cc2 .bylinecontainer > thead, .ods_ca435d70-8aec-426e-959c-318cc=
+a757cc2 .bylinecontainer > tbody, .ods_ca435d70-8aec-426e-959c-318cca757cc2=
+ .bylinecontainer > tfoot { border-width: medium; border-style: none; borde=
+r-color: currentcolor; border-image: none; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .bylinecontainer { background-col=
+or: rgb(250, 251, 254); border-width: medium; border-style: none; border-co=
+lor: currentcolor; border-image: none; border-spacing: 1px; color: rgb(0, 0=
+, 0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small=
+; font-style: normal; font-weight: normal; width: 100%; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .caption { background-color: rgb(=
+250, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-family: =
+Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: norma=
+l; font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .cell, .ods_ca435d70-8aec-426e-95=
+9c-318cca757cc2 .container { background-color: rgb(250, 251, 254); color: r=
+gb(0, 0, 0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: =
+x-small; font-style: normal; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .contentfolder, .ods_ca435d70-8ae=
+c-426e-959c-318cca757cc2 .contentitem { color: rgb(0, 0, 0); font-family: A=
+rial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal=
+; font-weight: normal; list-style-type: none; margin-left: 6pt; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .contentproclabel, .ods_ca435d70-=
+8aec-426e-959c-318cca757cc2 .contentprocname { background-color: rgb(250, 2=
+51, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .contents { background-color: rgb=
+(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Hel=
+vetica, Helv; font-size: x-small; font-style: normal; font-weight: normal; =
+list-style-type: decimal; margin-left: 8px; margin-right: 8px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .contentsdate { background-color:=
+ rgb(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT",=
+ Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: norm=
+al; width: 100%; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .contenttitle { background-color:=
+ rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany A=
+MT", Helvetica, Helv; font-size: x-small; font-style: italic; font-weight: =
+bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .continued { background-color: rg=
+b(250, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-family=
+: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: nor=
+mal; font-weight: bold; width: 100%; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .data, .ods_ca435d70-8aec-426e-95=
+9c-318cca757cc2 .dataemphasis { background-color: rgb(255, 255, 255); borde=
+r-color: rgb(193, 193, 193); border-style: solid; border-width: 0px 1px 1px=
+ 0px; font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small=
+; font-style: normal; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .dataemphasisfixed { background-c=
+olor: rgb(255, 255, 255); border-color: rgb(193, 193, 193); border-style: s=
+olid; border-width: 0px 1px 1px 0px; font-family: "Courier New", Courier, m=
+onospace; font-size: x-small; font-style: italic; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .dataempty { background-color: rg=
+b(255, 255, 255); border-color: rgb(193, 193, 193); border-style: solid; bo=
+rder-width: 0px 1px 1px 0px; font-family: Arial, "Albany AMT", Helvetica, H=
+elv; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .datafixed { background-color: rg=
+b(255, 255, 255); border-color: rgb(193, 193, 193); border-style: solid; bo=
+rder-width: 0px 1px 1px 0px; font-family: "Courier New", Courier; font-size=
+: x-small; font-style: normal; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .datastrong { background-color: r=
+gb(255, 255, 255); border-color: rgb(193, 193, 193); border-style: solid; b=
+order-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: Arial, "Alb=
+any AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-wei=
+ght: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .datastrongfixed { background-col=
+or: rgb(255, 255, 255); border-color: rgb(193, 193, 193); border-style: sol=
+id; border-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: "Couri=
+er New", Courier, monospace; font-size: x-small; font-style: normal; font-w=
+eight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .date { background-color: rgb(250=
+, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helveti=
+ca, Helv; font-size: x-small; font-style: normal; font-weight: normal; widt=
+h: 100%; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .document { background-color: rgb=
+(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Hel=
+vetica, Helv; font-size: x-small; font-style: normal; font-weight: normal; =
+}
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .errorbanner { background-color: =
+rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AM=
+T", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: b=
+old; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .errorcontent { background-color:=
+ rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany A=
+MT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: =
+normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .errorcontentfixed { background-c=
+olor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: "Courier Ne=
+w", Courier; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .extendedpage { background-color:=
+ rgb(250, 251, 254); border-style: solid; border-width: 1pt; color: rgb(17,=
+ 34, 119); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-=
+small; font-style: italic; font-weight: normal; text-align: center; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .fatalbanner { background-color: =
+rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AM=
+T", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: b=
+old; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .fatalcontent { background-color:=
+ rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany A=
+MT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: =
+normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .fatalcontentfixed { background-c=
+olor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: "Courier Ne=
+w", Courier; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .folderaction { color: rgb(0, 0, =
+0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; =
+font-style: normal; font-weight: normal; list-style-type: none; margin-left=
+: 6pt; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .footer { background-color: rgb(2=
+37, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; borde=
+r-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial, "Alb=
+any AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-wei=
+ght: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .footeremphasis { background-colo=
+r: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Ari=
+al, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: italic; =
+font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .footeremphasisfixed { background=
+-color: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style:=
+ solid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family=
+: "Courier New", Courier, monospace; font-size: x-small; font-style: italic=
+; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .footerempty { background-color: =
+rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; =
+border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial,=
+ "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; fon=
+t-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .footerfixed { background-color: =
+rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; =
+border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: "Couri=
+er New", Courier; font-size: x-small; font-style: normal; font-weight: norm=
+al; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .footerstrong { background-color:=
+ rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid;=
+ border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial=
+, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; fo=
+nt-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .footerstrongfixed { background-c=
+olor: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: s=
+olid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: =
+"Courier New", Courier, monospace; font-size: x-small; font-style: normal; =
+font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .frame { background-color: rgb(25=
+0, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .graph > colgroup { border-left: =
+1px solid rgb(193, 193, 193); border-right: 1px solid rgb(193, 193, 193); }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .graph > tbody, .ods_ca435d70-8ae=
+c-426e-959c-318cca757cc2 .graph > thead, .ods_ca435d70-8aec-426e-959c-318cc=
+a757cc2 .graph > tfoot { border-top: 1px solid rgb(193, 193, 193); border-b=
+ottom: 1px solid rgb(193, 193, 193); }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .graph { border: hidden; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .graph { background-color: rgb(25=
+0, 251, 254); border: 1px solid rgb(193, 193, 193); border-collapse: separa=
+te; border-spacing: 1px; color: rgb(0, 0, 0); font-family: Arial, "Albany A=
+MT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: =
+normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .header { background-color: rgb(2=
+37, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; borde=
+r-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial, "Alb=
+any AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-wei=
+ght: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .headeremphasis { background-colo=
+r: rgb(216, 219, 211); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: Arial, =
+"Albany AMT", Helvetica, Helv; font-size: x-small; font-style: italic; font=
+-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .headeremphasisfixed { background=
+-color: rgb(216, 219, 211); border-color: rgb(176, 183, 187); border-style:=
+ solid; border-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: "C=
+ourier New", Courier, monospace; font-size: x-small; font-style: italic; fo=
+nt-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .headerempty { background-color: =
+rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; =
+border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial,=
+ "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; fon=
+t-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .headerfixed { background-color: =
+rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; =
+border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: "Couri=
+er New", Courier; font-size: x-small; font-style: normal; font-weight: norm=
+al; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .headersandfooters { background-c=
+olor: rgb(237, 242, 249); color: rgb(0, 0, 0); font-family: Arial, "Albany =
+AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight:=
+ bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .headerstrong { background-color:=
+ rgb(216, 219, 211); border-color: rgb(176, 183, 187); border-style: solid;=
+ border-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: Arial, "A=
+lbany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-w=
+eight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .headerstrongfixed { background-c=
+olor: rgb(216, 219, 211); border-color: rgb(176, 183, 187); border-style: s=
+olid; border-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: "Cou=
+rier New", Courier, monospace; font-size: x-small; font-style: normal; font=
+-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .heading1, .ods_ca435d70-8aec-426=
+e-959c-318cca757cc2 .heading2, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .h=
+eading3, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .heading4, .ods_ca435d70=
+-8aec-426e-959c-318cca757cc2 .heading5, .ods_ca435d70-8aec-426e-959c-318cca=
+757cc2 .heading6 { font-family: Arial, Helvetica, sans-serif; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .index { background-color: rgb(25=
+0, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .indexaction, .ods_ca435d70-8aec-=
+426e-959c-318cca757cc2 .indexitem { color: rgb(0, 0, 0); font-family: Arial=
+, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; fo=
+nt-weight: normal; list-style-type: none; margin-left: 6pt; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .indexprocname { background-color=
+: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany =
+AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight:=
+ bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .indextitle { background-color: r=
+gb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT=
+", Helvetica, Helv; font-size: x-small; font-style: italic; font-weight: bo=
+ld; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .layoutcontainer, .ods_ca435d70-8=
+aec-426e-959c-318cca757cc2 .layoutregion { border-width: 0px; border-spacin=
+g: 30px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .linecontent { background-color: =
+rgb(250, 251, 254); border-color: rgb(193, 193, 193); border-style: solid; =
+border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial,=
+ "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; fon=
+t-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 a:link { color: rgb(0, 0, 255); }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .list { background-color: rgb(250=
+, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helveti=
+ca, Helv; font-size: x-small; font-style: normal; font-weight: normal; list=
+-style-type: disc; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .list10 { background-color: rgb(2=
+50, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helve=
+tica, Helv; font-size: x-small; font-style: normal; font-weight: normal; li=
+st-style-type: square; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .list2 { background-color: rgb(25=
+0, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: normal; lis=
+t-style-type: circle; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .list3, .ods_ca435d70-8aec-426e-9=
+59c-318cca757cc2 .list4, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .list5, =
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .list6, .ods_ca435d70-8aec-426e-9=
+59c-318cca757cc2 .list7, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .list8, =
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .list9 { background-color: rgb(25=
+0, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: normal; lis=
+t-style-type: square; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .listitem { background-color: rgb=
+(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Hel=
+vetica, Helv; font-size: x-small; font-style: normal; font-weight: normal; =
+list-style-type: disc; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .listitem10 { background-color: r=
+gb(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", H=
+elvetica, Helv; font-size: x-small; font-style: normal; font-weight: normal=
+; list-style-type: square; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .listitem2 { background-color: rg=
+b(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", He=
+lvetica, Helv; font-size: x-small; font-style: normal; font-weight: normal;=
+ list-style-type: circle; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .listitem3, .ods_ca435d70-8aec-42=
+6e-959c-318cca757cc2 .listitem4, .ods_ca435d70-8aec-426e-959c-318cca757cc2 =
+.listitem5, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .listitem6, .ods_ca43=
+5d70-8aec-426e-959c-318cca757cc2 .listitem7, .ods_ca435d70-8aec-426e-959c-3=
+18cca757cc2 .listitem8, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .listitem=
+9 { background-color: rgb(250, 251, 254); color: rgb(0, 0, 0); font-family:=
+ Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: norm=
+al; font-weight: normal; list-style-type: square; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .note { background-color: rgb(250=
+, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT", Hel=
+vetica, Helv; font-size: x-small; font-style: normal; font-weight: normal; =
+}
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .notebanner { background-color: r=
+gb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT=
+", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: bo=
+ld; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .notecontent { background-color: =
+rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AM=
+T", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: n=
+ormal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .notecontentfixed { background-co=
+lor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: "Courier New=
+", Courier; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .output > colgroup { border-left:=
+ 1px solid rgb(193, 193, 193); border-right: 1px solid rgb(193, 193, 193); =
+}
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .output > tbody, .ods_ca435d70-8a=
+ec-426e-959c-318cca757cc2 .output > thead, .ods_ca435d70-8aec-426e-959c-318=
+cca757cc2 .output > tfoot { border-top: 1px solid rgb(193, 193, 193); borde=
+r-bottom: 1px solid rgb(193, 193, 193); }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .output { border: hidden; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .output { background-color: rgb(2=
+50, 251, 254); border: 1px solid rgb(193, 193, 193); border-collapse: separ=
+ate; border-spacing: 1px; color: rgb(0, 0, 0); font-family: Arial, "Albany =
+AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight:=
+ normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .pageno { background-color: rgb(2=
+50, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-family: A=
+rial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal=
+; font-weight: bold; text-align: right; vertical-align: top; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .pages { background-color: rgb(25=
+0, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: normal; lis=
+t-style-type: decimal; margin-left: 8px; margin-right: 8px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .pagesdate { background-color: rg=
+b(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", He=
+lvetica, Helv; font-size: x-small; font-style: normal; font-weight: normal;=
+ width: 100%; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .pagesitem { color: rgb(0, 0, 0);=
+ font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; fon=
+t-style: normal; font-weight: normal; list-style-type: none; margin-left: 6=
+pt; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .pagesproclabel, .ods_ca435d70-8a=
+ec-426e-959c-318cca757cc2 .pagesprocname { background-color: rgb(250, 251, =
+254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT", Helvetica,=
+ Helv; font-size: x-small; font-style: normal; font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .pagestitle { background-color: r=
+gb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT=
+", Helvetica, Helv; font-size: x-small; font-style: italic; font-weight: bo=
+ld; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .paragraph { background-color: rg=
+b(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", He=
+lvetica, Helv; font-size: x-small; font-style: normal; font-weight: normal;=
+ }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .parskip > col, .ods_ca435d70-8ae=
+c-426e-959c-318cca757cc2 .parskip > colgroup > col, .ods_ca435d70-8aec-426e=
+-959c-318cca757cc2 .parskip > colgroup, .ods_ca435d70-8aec-426e-959c-318cca=
+757cc2 .parskip > tr, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .parskip > =
+* > tr, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .parskip > thead, .ods_ca=
+435d70-8aec-426e-959c-318cca757cc2 .parskip > tbody, .ods_ca435d70-8aec-426=
+e-959c-318cca757cc2 .parskip > tfoot { border-width: medium; border-style: =
+none; border-color: currentcolor; border-image: none; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .parskip { border-width: medium; =
+border-style: none; border-color: currentcolor; border-image: none; border-=
+spacing: 0px; font-family: Arial, "Albany AMT", Helvetica, Helv; font-size:=
+ x-small; font-style: normal; font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .prepage { background-color: rgb(=
+250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT", =
+Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: norma=
+l; text-align: left; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .proctitle { background-color: rg=
+b(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT"=
+, Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: bol=
+d; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .proctitlefixed { background-colo=
+r: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: "Courier New",=
+ Courier, monospace; font-size: x-small; font-style: normal; font-weight: b=
+old; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowfooter { background-color: rg=
+b(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; bo=
+rder-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial, "=
+Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-=
+weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowfooteremphasis { background-c=
+olor: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: s=
+olid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: =
+Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: itali=
+c; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowfooteremphasisfixed { backgro=
+und-color: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-sty=
+le: solid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-fam=
+ily: "Courier New", Courier, monospace; font-size: x-small; font-style: ita=
+lic; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowfooterempty { background-colo=
+r: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Ari=
+al, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; =
+font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowfooterfixed { background-colo=
+r: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: "Co=
+urier New", Courier; font-size: x-small; font-style: normal; font-weight: n=
+ormal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowfooterstrong { background-col=
+or: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: sol=
+id; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Ar=
+ial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal;=
+ font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowfooterstrongfixed { backgroun=
+d-color: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style=
+: solid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-famil=
+y: "Courier New", Courier, monospace; font-size: x-small; font-style: norma=
+l; font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowheader { background-color: rg=
+b(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; bo=
+rder-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial, "=
+Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-=
+weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowheaderemphasis { background-c=
+olor: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: s=
+olid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: =
+Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: itali=
+c; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowheaderemphasisfixed { backgro=
+und-color: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-sty=
+le: solid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-fam=
+ily: "Courier New", Courier, monospace; font-size: x-small; font-style: ita=
+lic; font-weight: normal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowheaderempty { background-colo=
+r: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Ari=
+al, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; =
+font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowheaderfixed { background-colo=
+r: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: "Co=
+urier New", Courier; font-size: x-small; font-style: normal; font-weight: n=
+ormal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowheaderstrong { background-col=
+or: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: sol=
+id; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Ar=
+ial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal;=
+ font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .rowheaderstrongfixed { backgroun=
+d-color: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style=
+: solid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-famil=
+y: "Courier New", Courier, monospace; font-size: x-small; font-style: norma=
+l; font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .systemfooter, .ods_ca435d70-8aec=
+-426e-959c-318cca757cc2 .systemfooter10, .ods_ca435d70-8aec-426e-959c-318cc=
+a757cc2 .systemfooter2, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .systemfo=
+oter3, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .systemfooter4, .ods_ca435=
+d70-8aec-426e-959c-318cca757cc2 .systemfooter5, .ods_ca435d70-8aec-426e-959=
+c-318cca757cc2 .systemfooter6, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .s=
+ystemfooter7, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .systemfooter8, .od=
+s_ca435d70-8aec-426e-959c-318cca757cc2 .systemfooter9 { background-color: r=
+gb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT=
+", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: no=
+rmal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .systemtitle, .ods_ca435d70-8aec-=
+426e-959c-318cca757cc2 .systemtitle10, .ods_ca435d70-8aec-426e-959c-318cca7=
+57cc2 .systemtitle2, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .systemtitle=
+3, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .systemtitle4, .ods_ca435d70-8=
+aec-426e-959c-318cca757cc2 .systemtitle5, .ods_ca435d70-8aec-426e-959c-318c=
+ca757cc2 .systemtitle6, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .systemti=
+tle7, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .systemtitle8, .ods_ca435d7=
+0-8aec-426e-959c-318cca757cc2 .systemtitle9 { background-color: rgb(250, 25=
+1, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT", Helveti=
+ca, Helv; font-size: small; font-style: normal; font-weight: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .systitleandfootercontainer > col=
+, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .systitleandfootercontainer > c=
+olgroup > col, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .systitleandfooter=
+container > colgroup, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .systitlean=
+dfootercontainer > tr, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .systitlea=
+ndfootercontainer > * > tr, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .syst=
+itleandfootercontainer > thead, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .=
+systitleandfootercontainer > tbody, .ods_ca435d70-8aec-426e-959c-318cca757c=
+c2 .systitleandfootercontainer > tfoot { border-width: medium; border-style=
+: none; border-color: currentcolor; border-image: none; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .systitleandfootercontainer { bac=
+kground-color: rgb(250, 251, 254); border-width: medium; border-style: none=
+; border-color: currentcolor; border-image: none; border-spacing: 1px; colo=
+r: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-si=
+ze: x-small; font-style: normal; font-weight: normal; width: 100%; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .table > col, .ods_ca435d70-8aec-=
+426e-959c-318cca757cc2 .table > colgroup > col { border-left: 1px solid rgb=
+(193, 193, 193); border-right: 0px solid rgb(193, 193, 193); }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .table > tr, .ods_ca435d70-8aec-4=
+26e-959c-318cca757cc2 .table > * > tr { border-top: 1px solid rgb(193, 193,=
+ 193); border-bottom: 0px solid rgb(193, 193, 193); }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .table { border: hidden; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .table { border-color: rgb(193, 1=
+93, 193); border-style: solid; border-width: 1px 0px 0px 1px; border-collap=
+se: collapse; border-spacing: 0px; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .titleandnotecontainer > col, .od=
+s_ca435d70-8aec-426e-959c-318cca757cc2 .titleandnotecontainer > colgroup > =
+col, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .titleandnotecontainer > col=
+group, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .titleandnotecontainer > t=
+r, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .titleandnotecontainer > * > t=
+r, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .titleandnotecontainer > thead=
+, .ods_ca435d70-8aec-426e-959c-318cca757cc2 .titleandnotecontainer > tbody,=
+ .ods_ca435d70-8aec-426e-959c-318cca757cc2 .titleandnotecontainer > tfoot {=
+ border-width: medium; border-style: none; border-color: currentcolor; bord=
+er-image: none; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .titleandnotecontainer { backgrou=
+nd-color: rgb(250, 251, 254); border-width: medium; border-style: none; bor=
+der-color: currentcolor; border-image: none; border-spacing: 1px; color: rg=
+b(0, 0, 0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x=
+-small; font-style: normal; font-weight: normal; width: 100%; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .titlesandfooters { background-co=
+lor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Alba=
+ny AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weig=
+ht: bold; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .usertext { background-color: rgb=
+(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT",=
+ Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: norm=
+al; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 a:visited { color: rgb(128, 0, 12=
+8); }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .warnbanner { background-color: r=
+gb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT=
+", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: bo=
+ld; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .warncontent { background-color: =
+rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AM=
+T", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: n=
+ormal; }
+
+.ods_ca435d70-8aec-426e-959c-318cca757cc2 .warncontentfixed { background-co=
+lor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: "Courier New=
+", Courier; font-size: x-small; font-style: normal; font-weight: normal; }
+------MultipartBoundary--K3I8cECm4IDG5yQbWuczw2qKV4csxw5kpAqIeSxwYM------

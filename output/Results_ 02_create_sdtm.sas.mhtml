@@ -1,0 +1,1528 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://odamid-usw2.oda.sas.com/SASStudio/sasexec/submissions/219f0a2b-c982-4d24-a653-89d6f170d7ab/results
+Subject: Results: 02_create_sdtm.sas
+Date: Thu, 17 Sep 2026 20:29:29 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--0hcjBbLxs4h4NaO1ELI6JSYKN7sFdtLOPBkrH4xTjv----"
+
+
+------MultipartBoundary--0hcjBbLxs4h4NaO1ELI6JSYKN7sFdtLOPBkrH4xTjv----
+Content-Type: text/html
+Content-ID: <frame-CF0C2CF30FE84D079D833B94CC453F5A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://odamid-usw2.oda.sas.com/SASStudio/sasexec/submissions/219f0a2b-c982-4d24-a653-89d6f170d7ab/results
+
+<!DOCTYPE html><html class=3D"ods_219f0a2b-c982-4d24-a653-89d6f170d7ab" lan=
+g=3D"en" xml:lang=3D"en" xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta=
+ http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link r=
+el=3D"stylesheet" type=3D"text/css" href=3D"cid:css-feab0953-0322-4e2c-9cc8=
+-c544f6669e4b@mhtml.blink" />
+
+<meta content=3D"SAS 9.4" name=3D"generator">
+<title>Results:  02_create_sdtm.sas</title>
+
+</head>
+<body class=3D"body">
+<div id=3D"div_219f0a2b-c982-4d24-a653-89d6f170d7ab" class=3D"c body">
+<h1 class=3D"body toc">Results: 02_create_sdtm.sas</h1>
+<section data-name=3D"SQL" data-sec-type=3D"proc">
+<div id=3D"IDX" class=3D"systitleandfootercontainer" style=3D"border-spacin=
+g: 1px">
+<p><span class=3D"c systemtitle">SDTM Build Summary 1: Record counts by dom=
+ain</span> </p>
+</div>
+<h1 class=3D"contentprocname toc">The SQL Procedure</h1>
+<article aria-label=3D"Query Results">
+<h1 class=3D"contentitem toc">Query Results</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Query Resu=
+lts">
+<caption aria-label=3D"Query Results"></caption>
+<colgroup><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"b header" scope=3D"col">Domain</th>
+<th class=3D"r b header" scope=3D"col">Records</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"data">DM</td>
+<td class=3D"r data">220</td>
+</tr>
+<tr>
+<td class=3D"data">SUPPDM</td>
+<td class=3D"r data">220</td>
+</tr>
+<tr>
+<td class=3D"data">SV</td>
+<td class=3D"r data">205</td>
+</tr>
+<tr>
+<td class=3D"data">VS</td>
+<td class=3D"r data">6046</td>
+</tr>
+<tr>
+<td class=3D"data">LB</td>
+<td class=3D"r data">7750</td>
+</tr>
+<tr>
+<td class=3D"data">AE</td>
+<td class=3D"r data">276</td>
+</tr>
+<tr>
+<td class=3D"data">EX</td>
+<td class=3D"r data">205</td>
+</tr>
+<tr>
+<td class=3D"data">DS</td>
+<td class=3D"r data">220</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+<section data-name=3D"Freq" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX1" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">SDTM Build Summary 2: DM subject accountin=
+g by arm</span> </p>
+</div>
+<div class=3D"proc_title_group">
+<p class=3D"c proctitle">The FREQ Procedure</p>
+</div>
+<h1 class=3D"contentprocname toc">The Freq Procedure</h1>
+<section>
+<h1 class=3D"contentfolder toc">Table ARM</h1>
+<article aria-label=3D"One-Way Frequencies">
+<h1 class=3D"contentitem toc">One-Way Frequencies</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"One-Way Fr=
+equencies">
+<caption aria-label=3D"One-Way Frequencies"></caption>
+<colgroup><col></colgroup><colgroup><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"c b header" colspan=3D"3" scope=3D"colgroup">Description of Pl=
+anned Arm</th>
+</tr>
+<tr>
+<th class=3D"b header" scope=3D"col">ARM</th>
+<th class=3D"r b header" scope=3D"col">Frequency</th>
+<th class=3D"r b header" scope=3D"col">Percent</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class=3D"rowheader" scope=3D"row">MHT-101 25 mg</th>
+<td class=3D"r data">68</td>
+<td class=3D"r data">30.91</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">MHT-101 50 mg</th>
+<td class=3D"r data">64</td>
+<td class=3D"r data">29.09</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Placebo</th>
+<td class=3D"r data">73</td>
+<td class=3D"r data">33.18</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Screen Failure</th>
+<td class=3D"r data">15</td>
+<td class=3D"r data">6.82</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+</section>
+<section data-name=3D"SQL" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX2" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">SDTM Build Summary 3: Orphan USUBJIDs (mus=
+t return zero rows)</span> </p>
+</div>
+<h1 class=3D"contentprocname toc">The SQL Procedure</h1>
+<article aria-label=3D"Query Results">
+<h1 class=3D"contentitem toc">Query Results</h1>
+</article>
+</section>
+<section data-name=3D"SQL" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX3" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">SDTM Build Summary 4: Duplicate --SEQ keys=
+ (must return zero rows)</span> </p>
+</div>
+<h1 class=3D"contentprocname toc">The SQL Procedure</h1>
+<article aria-label=3D"Query Results">
+<h1 class=3D"contentitem toc">Query Results</h1>
+</article>
+</section>
+<section data-name=3D"SQL" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX4" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">SDTM Build Summary 5: Baseline flag counts=
+ (one per subject per test)</span> </p>
+</div>
+<h1 class=3D"contentprocname toc">The SQL Procedure</h1>
+<article aria-label=3D"Query Results">
+<h1 class=3D"contentitem toc">Query Results</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Query Resu=
+lts">
+<caption aria-label=3D"Query Results"></caption>
+<colgroup><col><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"b header" scope=3D"col">Domain</th>
+<th class=3D"b header" scope=3D"col">Vital Signs Test Short Name</th>
+<th class=3D"r b header" scope=3D"col">Baseline_Records</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"data">VS</td>
+<td class=3D"data">DIABP</td>
+<td class=3D"r data">201</td>
+</tr>
+<tr>
+<td class=3D"data">VS</td>
+<td class=3D"data">PULSE</td>
+<td class=3D"r data">205</td>
+</tr>
+<tr>
+<td class=3D"data">VS</td>
+<td class=3D"data">SYSBP</td>
+<td class=3D"r data">181</td>
+</tr>
+<tr>
+<td class=3D"data">VS</td>
+<td class=3D"data">TEMP</td>
+<td class=3D"r data">199</td>
+</tr>
+<tr>
+<td class=3D"data">VS</td>
+<td class=3D"data">WEIGHT</td>
+<td class=3D"r data">182</td>
+</tr>
+<tr>
+<td class=3D"data">LB</td>
+<td class=3D"data">ALT</td>
+<td class=3D"r data">182</td>
+</tr>
+<tr>
+<td class=3D"data">LB</td>
+<td class=3D"data">AST</td>
+<td class=3D"r data">189</td>
+</tr>
+<tr>
+<td class=3D"data">LB</td>
+<td class=3D"data">CREAT</td>
+<td class=3D"r data">205</td>
+</tr>
+<tr>
+<td class=3D"data">LB</td>
+<td class=3D"data">GLUC</td>
+<td class=3D"r data">182</td>
+</tr>
+<tr>
+<td class=3D"data">LB</td>
+<td class=3D"data">HCT</td>
+<td class=3D"r data">199</td>
+</tr>
+<tr>
+<td class=3D"data">LB</td>
+<td class=3D"data">HGB</td>
+<td class=3D"r data">205</td>
+</tr>
+<tr>
+<td class=3D"data">LB</td>
+<td class=3D"data">K</td>
+<td class=3D"r data">182</td>
+</tr>
+<tr>
+<td class=3D"data">LB</td>
+<td class=3D"data">PLAT</td>
+<td class=3D"r data">182</td>
+</tr>
+<tr>
+<td class=3D"data">LB</td>
+<td class=3D"data">SODIUM</td>
+<td class=3D"r data">205</td>
+</tr>
+<tr>
+<td class=3D"data">LB</td>
+<td class=3D"data">WBC</td>
+<td class=3D"r data">199</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+<section data-name=3D"SQL" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX5" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">SDTM Build Summary 6: Study day range chec=
+k (no Day 0 permitted)</span> </p>
+</div>
+<h1 class=3D"contentprocname toc">The SQL Procedure</h1>
+<article aria-label=3D"Query Results">
+<h1 class=3D"contentitem toc">Query Results</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Query Resu=
+lts">
+<caption aria-label=3D"Query Results"></caption>
+<colgroup><col><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"r b header" scope=3D"col">Min_VSDY</th>
+<th class=3D"r b header" scope=3D"col">Max_VSDY</th>
+<th class=3D"r b header" scope=3D"col">Day_Zero_Count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"r data" style=3D"white-space: nowrap">-148</td>
+<td class=3D"r data">259</td>
+<td class=3D"r data">0</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+<section data-name=3D"Contents" data-sec-type=3D"proc">
+<hr class=3D"pagebreak">
+<div id=3D"IDX6" class=3D"systitleandfootercontainer" style=3D"border-spaci=
+ng: 1px">
+<p><span class=3D"c systemtitle">SDTM Build Summary 7: DM structure</span> =
+</p>
+</div>
+<div class=3D"proc_title_group">
+<p class=3D"c proctitle">The CONTENTS Procedure</p>
+</div>
+<h1 class=3D"contentprocname toc">The Contents Procedure</h1>
+<section>
+<h1 class=3D"contentfolder toc">SDTM.DM</h1>
+<article aria-label=3D"Attributes">
+<h1 class=3D"contentitem toc">Attributes</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Attributes=
+">
+<caption aria-label=3D"Attributes"></caption>
+<colgroup><col><col><col><col></colgroup>
+<tbody>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Data Set Name</th>
+<td class=3D"data">SDTM.DM</td>
+<th class=3D"rowheader" scope=3D"row">Observations</th>
+<td class=3D"data">220</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Member Type</th>
+<td class=3D"data">DATA</td>
+<th class=3D"rowheader" scope=3D"row">Variables</th>
+<td class=3D"data">22</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Engine</th>
+<td class=3D"data">V9</td>
+<th class=3D"rowheader" scope=3D"row">Indexes</th>
+<td class=3D"data">0</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Created</th>
+<td class=3D"data">09/17/2026 16:27:27</td>
+<th class=3D"rowheader" scope=3D"row">Observation Length</th>
+<td class=3D"data">288</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Last Modified</th>
+<td class=3D"data">09/17/2026 16:27:27</td>
+<th class=3D"rowheader" scope=3D"row">Deleted Observations</th>
+<td class=3D"data">0</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Protection</th>
+<td class=3D"data">&nbsp;</td>
+<th class=3D"rowheader" scope=3D"row">Compressed</th>
+<td class=3D"data">NO</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Data Set Type</th>
+<td class=3D"data">&nbsp;</td>
+<th class=3D"rowheader" scope=3D"row">Sorted</th>
+<td class=3D"data">YES</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Label</th>
+<td class=3D"data">&nbsp;</td>
+<th class=3D"rowheader" scope=3D"row">&nbsp;</th>
+<td class=3D"data">&nbsp;</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Data Representation</th>
+<td class=3D"data">SOLARIS_X86_64, LINUX_X86_64, ALPHA_TRU64, LINUX_IA64</t=
+d>
+<th class=3D"rowheader" scope=3D"row">&nbsp;</th>
+<td class=3D"data">&nbsp;</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Encoding</th>
+<td class=3D"data">utf-8  Unicode (UTF-8)</td>
+<th class=3D"rowheader" scope=3D"row">&nbsp;</th>
+<td class=3D"data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</article>
+<article id=3D"IDX7" aria-label=3D"Engine/Host Information">
+<h1 class=3D"contentitem toc">Engine/Host Information</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Engine/Hos=
+t Information">
+<caption aria-label=3D"Engine/Host Information"></caption>
+<colgroup><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"c b header" colspan=3D"2" scope=3D"colgroup">Engine/Host Depen=
+dent Information</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Data Set Page Size</th>
+<td class=3D"data">131072</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Number of Data Set Pages</th>
+<td class=3D"data">1</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">First Data Page</th>
+<td class=3D"data">1</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Max Obs per Page</th>
+<td class=3D"data">454</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Obs in First Data Page</th>
+<td class=3D"data">220</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Number of Data Set Repairs</th>
+<td class=3D"data">0</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Filename</th>
+<td class=3D"data">/home/u63064984/md-hypertension-trial/data/sdtm/dm.sas7b=
+dat</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Release Created</th>
+<td class=3D"data">9.0401M8</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Host Created</th>
+<td class=3D"data">Linux</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Inode Number</th>
+<td class=3D"data">6455173362</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Access Permission</th>
+<td class=3D"data">rw-r--r--</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Owner Name</th>
+<td class=3D"data">u63064984</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">File Size</th>
+<td class=3D"data">256KB</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">File Size (bytes)</th>
+<td class=3D"data">262144</td>
+</tr>
+</tbody>
+</table>
+</article>
+<article id=3D"IDX8" aria-label=3D"Varnum">
+<h1 class=3D"contentitem toc">Varnum</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Varnum">
+<caption aria-label=3D"Varnum"></caption>
+<colgroup><col></colgroup><colgroup><col><col><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"c b header" colspan=3D"5" scope=3D"colgroup">Variables in Crea=
+tion Order</th>
+</tr>
+<tr>
+<th class=3D"r b header" scope=3D"col">#</th>
+<th class=3D"b header" scope=3D"col">Variable</th>
+<th class=3D"b header" scope=3D"col">Type</th>
+<th class=3D"r b header" scope=3D"col">Len</th>
+<th class=3D"b header" scope=3D"col">Label</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">1</th>
+<td class=3D"data">SUBJID</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">6</td>
+<td class=3D"data">Subject Identifier for the Study</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">2</th>
+<td class=3D"data">SITEID</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">3</td>
+<td class=3D"data">Study Site Identifier</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">3</th>
+<td class=3D"data">SEX</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">1</td>
+<td class=3D"data">Sex</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">4</th>
+<td class=3D"data">RACE</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">45</td>
+<td class=3D"data">Race</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">5</th>
+<td class=3D"data">ETHNIC</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">30</td>
+<td class=3D"data">Ethnicity</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">6</th>
+<td class=3D"data">AGE</td>
+<td class=3D"data">Num</td>
+<td class=3D"r data">8</td>
+<td class=3D"data">Age</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">7</th>
+<td class=3D"data">ARM</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">20</td>
+<td class=3D"data">Description of Planned Arm</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">8</th>
+<td class=3D"data">ARMCD</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">8</td>
+<td class=3D"data">Planned Arm Code</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">9</th>
+<td class=3D"data">STUDYID</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">20</td>
+<td class=3D"data">Study Identifier</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">10</th>
+<td class=3D"data">DOMAIN</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">2</td>
+<td class=3D"data">Domain Abbreviation</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">11</th>
+<td class=3D"data">USUBJID</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">30</td>
+<td class=3D"data">Unique Subject Identifier</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">12</th>
+<td class=3D"data">RFSTDTC</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">10</td>
+<td class=3D"data">Subject Reference Start Date/Time</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">13</th>
+<td class=3D"data">RFENDTC</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">10</td>
+<td class=3D"data">Subject Reference End Date/Time</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">14</th>
+<td class=3D"data">RFXSTDTC</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">10</td>
+<td class=3D"data">Date/Time of First Study Treatment</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">15</th>
+<td class=3D"data">RFXENDTC</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">10</td>
+<td class=3D"data">Date/Time of Last Study Treatment</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">16</th>
+<td class=3D"data">RFICDTC</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">10</td>
+<td class=3D"data">Date/Time of Informed Consent</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">17</th>
+<td class=3D"data">DMDTC</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">10</td>
+<td class=3D"data">Date/Time of Collection</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">18</th>
+<td class=3D"data">AGEU</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">10</td>
+<td class=3D"data">Age Units</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">19</th>
+<td class=3D"data">ACTARMCD</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">8</td>
+<td class=3D"data">Actual Arm Code</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">20</th>
+<td class=3D"data">ACTARM</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">20</td>
+<td class=3D"data">Description of Actual Arm</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">21</th>
+<td class=3D"data">COUNTRY</td>
+<td class=3D"data">Char</td>
+<td class=3D"r data">3</td>
+<td class=3D"data">Country</td>
+</tr>
+<tr>
+<th class=3D"r rowheader" scope=3D"row">22</th>
+<td class=3D"data">DMDY</td>
+<td class=3D"data">Num</td>
+<td class=3D"r data">8</td>
+<td class=3D"data">Study Day of Collection</td>
+</tr>
+</tbody>
+</table>
+</article>
+<article id=3D"IDX9" aria-label=3D"Sortedby">
+<h1 class=3D"contentitem toc">Sortedby</h1>
+<table class=3D"table" style=3D"border-spacing: 0" aria-label=3D"Sortedby">
+<caption aria-label=3D"Sortedby"></caption>
+<colgroup><col><col></colgroup>
+<thead>
+<tr>
+<th class=3D"c b header" colspan=3D"2" scope=3D"colgroup">Sort Information<=
+/th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Sortedby</th>
+<td class=3D"data">USUBJID</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Validated</th>
+<td class=3D"data">YES</td>
+</tr>
+<tr>
+<th class=3D"rowheader" scope=3D"row">Character Set</th>
+<td class=3D"data">ASCII</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+</section>
+</div>
+
+
+</body></html>
+------MultipartBoundary--0hcjBbLxs4h4NaO1ELI6JSYKN7sFdtLOPBkrH4xTjv----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-feab0953-0322-4e2c-9cc8-c544f6669e4b@mhtml.blink
+
+@charset "utf-8";
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .body.c section > table, .ods_219=
+f0a2b-c982-4d24-a653-89d6f170d7ab .body.c section > pre, .ods_219f0a2b-c982=
+-4d24-a653-89d6f170d7ab .body.c div > table, .ods_219f0a2b-c982-4d24-a653-8=
+9d6f170d7ab .body.c div > pre, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .b=
+ody.c article > table, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .body.c ar=
+ticle > pre, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .body.j section > ta=
+ble, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .body.j section > pre, .ods_=
+219f0a2b-c982-4d24-a653-89d6f170d7ab .body.j div > table, .ods_219f0a2b-c98=
+2-4d24-a653-89d6f170d7ab .body.j div > pre, .ods_219f0a2b-c982-4d24-a653-89=
+d6f170d7ab .body.j article > table, .ods_219f0a2b-c982-4d24-a653-89d6f170d7=
+ab .body.j article > pre, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .body.c=
+ p.note, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .body.c p.warning, .ods_=
+219f0a2b-c982-4d24-a653-89d6f170d7ab .body.c p.error, .ods_219f0a2b-c982-4d=
+24-a653-89d6f170d7ab .body.c p.fatal, .ods_219f0a2b-c982-4d24-a653-89d6f170=
+d7ab .body.j p.note, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .body.j p.wa=
+rning, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .body.j p.error, .ods_219f=
+0a2b-c982-4d24-a653-89d6f170d7ab .body.j p.fatal, .ods_219f0a2b-c982-4d24-a=
+653-89d6f170d7ab .body.c > table.layoutcontainer, .ods_219f0a2b-c982-4d24-a=
+653-89d6f170d7ab .body.j > table.layoutcontainer { margin-left: auto; margi=
+n-right: auto; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .layoutregion.l table, .ods_219f0=
+a2b-c982-4d24-a653-89d6f170d7ab .layoutregion.l pre, .ods_219f0a2b-c982-4d2=
+4-a653-89d6f170d7ab .layoutregion.l p.note, .ods_219f0a2b-c982-4d24-a653-89=
+d6f170d7ab .layoutregion.l p.warning, .ods_219f0a2b-c982-4d24-a653-89d6f170=
+d7ab .layoutregion.l p.error, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .la=
+youtregion.l p.fatal { margin-left: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .layoutregion.c table, .ods_219f0=
+a2b-c982-4d24-a653-89d6f170d7ab .layoutregion.c pre, .ods_219f0a2b-c982-4d2=
+4-a653-89d6f170d7ab .layoutregion.c p.note, .ods_219f0a2b-c982-4d24-a653-89=
+d6f170d7ab .layoutregion.c p.warning, .ods_219f0a2b-c982-4d24-a653-89d6f170=
+d7ab .layoutregion.c p.error, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .la=
+youtregion.c p.fatal { margin-left: auto; margin-right: auto; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .layoutregion.r table, .ods_219f0=
+a2b-c982-4d24-a653-89d6f170d7ab .layoutregion.r pre, .ods_219f0a2b-c982-4d2=
+4-a653-89d6f170d7ab .layoutregion.r p.note, .ods_219f0a2b-c982-4d24-a653-89=
+d6f170d7ab .layoutregion.r table, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab=
+ .layoutregion.r pre, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .layoutregi=
+on.r p.note, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .layoutregion.r p.wa=
+rning, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .layoutregion.r p.error, .=
+ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .layoutregion.r p.fatal { margin-r=
+ight: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab article, .ods_219f0a2b-c982-4d24-=
+a653-89d6f170d7ab aside, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab details,=
+ .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab figcaption, .ods_219f0a2b-c982-4=
+d24-a653-89d6f170d7ab figure, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab foo=
+ter, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab header, .ods_219f0a2b-c982-4=
+d24-a653-89d6f170d7ab hgroup, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab nav=
+, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab section { display: block; }
+
+html.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab { font-size: 100%; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .body { margin: 1em; font-size: 1=
+3px; line-height: 1.231; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab sup { position: relative; vertica=
+l-align: baseline; bottom: 0.25em; font-size: 0.8em; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab sub { position: relative; vertica=
+l-align: baseline; top: 0.25em; font-size: 0.8em; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab ul, .ods_219f0a2b-c982-4d24-a653-=
+89d6f170d7ab ol { margin: 1em 0px; padding: 0px 0px 0px 40px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab dd { margin: 0px 0px 0px 40px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab nav ul, .ods_219f0a2b-c982-4d24-a=
+653-89d6f170d7ab nav ol { list-style: none none; margin: 0px; padding: 0px;=
+ }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab img { border: 0px; vertical-align=
+: middle; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab svg:not(:root) { overflow: hidden=
+; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab figure { margin: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab table { border-collapse: collapse=
+; border-spacing: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .layoutcontainer { border-collaps=
+e: separate; border-spacing: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab p { margin-top: 0px; text-align: =
+left; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab h1.heading1 { text-align: left; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab h2.heading2 { text-align: left; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab h3.heading3 { text-align: left; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab h4.heading4 { text-align: left; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab h5.heading5 { text-align: left; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab h6.heading6 { text-align: left; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab span { text-align: left; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab table { margin-bottom: 1em; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab td, .ods_219f0a2b-c982-4d24-a653-=
+89d6f170d7ab th { text-align: left; padding: 3px 6px; vertical-align: top; =
+}
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab td[class$=3D"fixed"], .ods_219f0a=
+2b-c982-4d24-a653-89d6f170d7ab th[class$=3D"fixed"] { white-space: pre; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab section, .ods_219f0a2b-c982-4d24-=
+a653-89d6f170d7ab article { padding-top: 1px; padding-bottom: 8px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab hr.pagebreak { height: 0px; borde=
+r-width: 0px 0px 1px; border-style: none none solid; border-color: currentc=
+olor currentcolor rgb(192, 192, 192); border-image: none; margin: 1em 0px; =
+}
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .stacked-value { text-align: left=
+; display: block; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .stacked-cell > .stacked-value, .=
+ods_219f0a2b-c982-4d24-a653-89d6f170d7ab td.data > td.data, .ods_219f0a2b-c=
+982-4d24-a653-89d6f170d7ab th.data > td.data, .ods_219f0a2b-c982-4d24-a653-=
+89d6f170d7ab th.data > th.data, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab t=
+d.data > th.data, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab th.header > th.=
+header { border: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .stacked-cell > div.data { border=
+-width: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systitleandfootercontainer { whi=
+te-space: nowrap; margin-bottom: 1em; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systitleandfootercontainer > p {=
+ margin: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systitleandfootercontainer > p >=
+ span { display: inline-block; width: 100%; white-space: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .batch { display: table; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .toc { display: none; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .proc_note_group, .ods_219f0a2b-c=
+982-4d24-a653-89d6f170d7ab .proc_title_group { margin-bottom: 1em; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab p.proctitle { margin: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab p.note, .ods_219f0a2b-c982-4d24-a=
+653-89d6f170d7ab p.warning, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab p.err=
+or, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab p.fatal { display: table; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .notebanner, .ods_219f0a2b-c982-4=
+d24-a653-89d6f170d7ab .warnbanner, .ods_219f0a2b-c982-4d24-a653-89d6f170d7a=
+b .errorbanner, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .fatalbanner, .od=
+s_219f0a2b-c982-4d24-a653-89d6f170d7ab .notecontent, .ods_219f0a2b-c982-4d2=
+4-a653-89d6f170d7ab .warncontent, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab=
+ .errorcontent, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .fatalcontent { d=
+isplay: table-cell; padding: 0.5em; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .notebanner, .ods_219f0a2b-c982-4=
+d24-a653-89d6f170d7ab .warnbanner, .ods_219f0a2b-c982-4d24-a653-89d6f170d7a=
+b .errorbanner, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .fatalbanner { pa=
+dding-right: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .body > div > ol li { text-align:=
+ left; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .beforecaption > h4 { margin-top:=
+ 0px; margin-bottom: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .c { text-align: center; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .r { text-align: right; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .l { text-align: left; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .j { text-align: justify; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .d { text-align: right; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .b { vertical-align: bottom; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .m { vertical-align: middle; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .t { vertical-align: top; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .accessiblecaption { background-c=
+olor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Alb=
+any AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-wei=
+ght: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab a:active { color: rgb(128, 0, 128=
+); }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .aftercaption { background-color:=
+ rgb(250, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-fam=
+ily: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: =
+normal; font-weight: bold; padding-top: 4pt; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .batch > colgroup { border-left: =
+1px solid rgb(193, 193, 193); border-right: 1px solid rgb(193, 193, 193); }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .batch > tbody, .ods_219f0a2b-c98=
+2-4d24-a653-89d6f170d7ab .batch > thead, .ods_219f0a2b-c982-4d24-a653-89d6f=
+170d7ab .batch > tfoot { border-top: 1px solid rgb(193, 193, 193); border-b=
+ottom: 1px solid rgb(193, 193, 193); }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .batch { border: hidden; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .batch { background-color: rgb(25=
+0, 251, 254); border: 1px solid rgb(193, 193, 193); border-collapse: separa=
+te; border-spacing: 1px; color: rgb(0, 0, 0); font-family: "SAS Monospace",=
+ "Courier New", Courier, monospace; font-size: x-small; font-style: normal;=
+ font-weight: normal; padding: 7px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .beforecaption { background-color=
+: rgb(250, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-fa=
+mily: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style:=
+ normal; font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .body { background-color: rgb(250=
+, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helveti=
+ca, Helv; font-size: x-small; font-style: normal; font-weight: normal; marg=
+in-left: 8px; margin-right: 8px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .bodydate { background-color: rgb=
+(250, 251, 254); border-spacing: 0px; color: rgb(0, 0, 0); font-family: Ari=
+al, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; =
+font-weight: normal; text-align: right; vertical-align: top; width: 100%; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .bycontentfolder { color: rgb(0, =
+0, 0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-smal=
+l; font-style: normal; font-weight: normal; list-style-type: none; margin-l=
+eft: 6pt; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .byline { background-color: rgb(2=
+50, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-family: A=
+rial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal=
+; font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .bylinecontainer > col, .ods_219f=
+0a2b-c982-4d24-a653-89d6f170d7ab .bylinecontainer > colgroup > col, .ods_21=
+9f0a2b-c982-4d24-a653-89d6f170d7ab .bylinecontainer > colgroup, .ods_219f0a=
+2b-c982-4d24-a653-89d6f170d7ab .bylinecontainer > tr, .ods_219f0a2b-c982-4d=
+24-a653-89d6f170d7ab .bylinecontainer > * > tr, .ods_219f0a2b-c982-4d24-a65=
+3-89d6f170d7ab .bylinecontainer > thead, .ods_219f0a2b-c982-4d24-a653-89d6f=
+170d7ab .bylinecontainer > tbody, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab=
+ .bylinecontainer > tfoot { border-width: medium; border-style: none; borde=
+r-color: currentcolor; border-image: none; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .bylinecontainer { background-col=
+or: rgb(250, 251, 254); border-width: medium; border-style: none; border-co=
+lor: currentcolor; border-image: none; border-spacing: 1px; color: rgb(0, 0=
+, 0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small=
+; font-style: normal; font-weight: normal; width: 100%; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .caption { background-color: rgb(=
+250, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-family: =
+Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: norma=
+l; font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .cell, .ods_219f0a2b-c982-4d24-a6=
+53-89d6f170d7ab .container { background-color: rgb(250, 251, 254); color: r=
+gb(0, 0, 0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: =
+x-small; font-style: normal; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .contentfolder, .ods_219f0a2b-c98=
+2-4d24-a653-89d6f170d7ab .contentitem { color: rgb(0, 0, 0); font-family: A=
+rial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal=
+; font-weight: normal; list-style-type: none; margin-left: 6pt; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .contentproclabel, .ods_219f0a2b-=
+c982-4d24-a653-89d6f170d7ab .contentprocname { background-color: rgb(250, 2=
+51, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .contents { background-color: rgb=
+(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Hel=
+vetica, Helv; font-size: x-small; font-style: normal; font-weight: normal; =
+list-style-type: decimal; margin-left: 8px; margin-right: 8px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .contentsdate { background-color:=
+ rgb(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT",=
+ Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: norm=
+al; width: 100%; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .contenttitle { background-color:=
+ rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany A=
+MT", Helvetica, Helv; font-size: x-small; font-style: italic; font-weight: =
+bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .continued { background-color: rg=
+b(250, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-family=
+: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: nor=
+mal; font-weight: bold; width: 100%; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .data, .ods_219f0a2b-c982-4d24-a6=
+53-89d6f170d7ab .dataemphasis { background-color: rgb(255, 255, 255); borde=
+r-color: rgb(193, 193, 193); border-style: solid; border-width: 0px 1px 1px=
+ 0px; font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small=
+; font-style: normal; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .dataemphasisfixed { background-c=
+olor: rgb(255, 255, 255); border-color: rgb(193, 193, 193); border-style: s=
+olid; border-width: 0px 1px 1px 0px; font-family: "Courier New", Courier, m=
+onospace; font-size: x-small; font-style: italic; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .dataempty { background-color: rg=
+b(255, 255, 255); border-color: rgb(193, 193, 193); border-style: solid; bo=
+rder-width: 0px 1px 1px 0px; font-family: Arial, "Albany AMT", Helvetica, H=
+elv; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .datafixed { background-color: rg=
+b(255, 255, 255); border-color: rgb(193, 193, 193); border-style: solid; bo=
+rder-width: 0px 1px 1px 0px; font-family: "Courier New", Courier; font-size=
+: x-small; font-style: normal; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .datastrong { background-color: r=
+gb(255, 255, 255); border-color: rgb(193, 193, 193); border-style: solid; b=
+order-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: Arial, "Alb=
+any AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-wei=
+ght: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .datastrongfixed { background-col=
+or: rgb(255, 255, 255); border-color: rgb(193, 193, 193); border-style: sol=
+id; border-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: "Couri=
+er New", Courier, monospace; font-size: x-small; font-style: normal; font-w=
+eight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .date { background-color: rgb(250=
+, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helveti=
+ca, Helv; font-size: x-small; font-style: normal; font-weight: normal; widt=
+h: 100%; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .document { background-color: rgb=
+(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Hel=
+vetica, Helv; font-size: x-small; font-style: normal; font-weight: normal; =
+}
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .errorbanner { background-color: =
+rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AM=
+T", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: b=
+old; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .errorcontent { background-color:=
+ rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany A=
+MT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: =
+normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .errorcontentfixed { background-c=
+olor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: "Courier Ne=
+w", Courier; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .extendedpage { background-color:=
+ rgb(250, 251, 254); border-style: solid; border-width: 1pt; color: rgb(17,=
+ 34, 119); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-=
+small; font-style: italic; font-weight: normal; text-align: center; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .fatalbanner { background-color: =
+rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AM=
+T", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: b=
+old; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .fatalcontent { background-color:=
+ rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany A=
+MT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: =
+normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .fatalcontentfixed { background-c=
+olor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: "Courier Ne=
+w", Courier; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .folderaction { color: rgb(0, 0, =
+0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; =
+font-style: normal; font-weight: normal; list-style-type: none; margin-left=
+: 6pt; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .footer { background-color: rgb(2=
+37, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; borde=
+r-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial, "Alb=
+any AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-wei=
+ght: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .footeremphasis { background-colo=
+r: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Ari=
+al, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: italic; =
+font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .footeremphasisfixed { background=
+-color: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style:=
+ solid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family=
+: "Courier New", Courier, monospace; font-size: x-small; font-style: italic=
+; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .footerempty { background-color: =
+rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; =
+border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial,=
+ "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; fon=
+t-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .footerfixed { background-color: =
+rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; =
+border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: "Couri=
+er New", Courier; font-size: x-small; font-style: normal; font-weight: norm=
+al; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .footerstrong { background-color:=
+ rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid;=
+ border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial=
+, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; fo=
+nt-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .footerstrongfixed { background-c=
+olor: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: s=
+olid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: =
+"Courier New", Courier, monospace; font-size: x-small; font-style: normal; =
+font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .frame { background-color: rgb(25=
+0, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .graph > colgroup { border-left: =
+1px solid rgb(193, 193, 193); border-right: 1px solid rgb(193, 193, 193); }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .graph > tbody, .ods_219f0a2b-c98=
+2-4d24-a653-89d6f170d7ab .graph > thead, .ods_219f0a2b-c982-4d24-a653-89d6f=
+170d7ab .graph > tfoot { border-top: 1px solid rgb(193, 193, 193); border-b=
+ottom: 1px solid rgb(193, 193, 193); }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .graph { border: hidden; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .graph { background-color: rgb(25=
+0, 251, 254); border: 1px solid rgb(193, 193, 193); border-collapse: separa=
+te; border-spacing: 1px; color: rgb(0, 0, 0); font-family: Arial, "Albany A=
+MT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: =
+normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .header { background-color: rgb(2=
+37, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; borde=
+r-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial, "Alb=
+any AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-wei=
+ght: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .headeremphasis { background-colo=
+r: rgb(216, 219, 211); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: Arial, =
+"Albany AMT", Helvetica, Helv; font-size: x-small; font-style: italic; font=
+-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .headeremphasisfixed { background=
+-color: rgb(216, 219, 211); border-color: rgb(176, 183, 187); border-style:=
+ solid; border-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: "C=
+ourier New", Courier, monospace; font-size: x-small; font-style: italic; fo=
+nt-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .headerempty { background-color: =
+rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; =
+border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial,=
+ "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; fon=
+t-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .headerfixed { background-color: =
+rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; =
+border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: "Couri=
+er New", Courier; font-size: x-small; font-style: normal; font-weight: norm=
+al; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .headersandfooters { background-c=
+olor: rgb(237, 242, 249); color: rgb(0, 0, 0); font-family: Arial, "Albany =
+AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight:=
+ bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .headerstrong { background-color:=
+ rgb(216, 219, 211); border-color: rgb(176, 183, 187); border-style: solid;=
+ border-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: Arial, "A=
+lbany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-w=
+eight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .headerstrongfixed { background-c=
+olor: rgb(216, 219, 211); border-color: rgb(176, 183, 187); border-style: s=
+olid; border-width: 0px 1px 1px 0px; color: rgb(0, 0, 0); font-family: "Cou=
+rier New", Courier, monospace; font-size: x-small; font-style: normal; font=
+-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .heading1, .ods_219f0a2b-c982-4d2=
+4-a653-89d6f170d7ab .heading2, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .h=
+eading3, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .heading4, .ods_219f0a2b=
+-c982-4d24-a653-89d6f170d7ab .heading5, .ods_219f0a2b-c982-4d24-a653-89d6f1=
+70d7ab .heading6 { font-family: Arial, Helvetica, sans-serif; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .index { background-color: rgb(25=
+0, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .indexaction, .ods_219f0a2b-c982-=
+4d24-a653-89d6f170d7ab .indexitem { color: rgb(0, 0, 0); font-family: Arial=
+, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; fo=
+nt-weight: normal; list-style-type: none; margin-left: 6pt; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .indexprocname { background-color=
+: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany =
+AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight:=
+ bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .indextitle { background-color: r=
+gb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT=
+", Helvetica, Helv; font-size: x-small; font-style: italic; font-weight: bo=
+ld; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .layoutcontainer, .ods_219f0a2b-c=
+982-4d24-a653-89d6f170d7ab .layoutregion { border-width: 0px; border-spacin=
+g: 30px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .linecontent { background-color: =
+rgb(250, 251, 254); border-color: rgb(193, 193, 193); border-style: solid; =
+border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial,=
+ "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; fon=
+t-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab a:link { color: rgb(0, 0, 255); }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .list { background-color: rgb(250=
+, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helveti=
+ca, Helv; font-size: x-small; font-style: normal; font-weight: normal; list=
+-style-type: disc; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .list10 { background-color: rgb(2=
+50, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helve=
+tica, Helv; font-size: x-small; font-style: normal; font-weight: normal; li=
+st-style-type: square; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .list2 { background-color: rgb(25=
+0, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: normal; lis=
+t-style-type: circle; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .list3, .ods_219f0a2b-c982-4d24-a=
+653-89d6f170d7ab .list4, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .list5, =
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .list6, .ods_219f0a2b-c982-4d24-a=
+653-89d6f170d7ab .list7, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .list8, =
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .list9 { background-color: rgb(25=
+0, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: normal; lis=
+t-style-type: square; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .listitem { background-color: rgb=
+(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Hel=
+vetica, Helv; font-size: x-small; font-style: normal; font-weight: normal; =
+list-style-type: disc; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .listitem10 { background-color: r=
+gb(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", H=
+elvetica, Helv; font-size: x-small; font-style: normal; font-weight: normal=
+; list-style-type: square; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .listitem2 { background-color: rg=
+b(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", He=
+lvetica, Helv; font-size: x-small; font-style: normal; font-weight: normal;=
+ list-style-type: circle; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .listitem3, .ods_219f0a2b-c982-4d=
+24-a653-89d6f170d7ab .listitem4, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab =
+.listitem5, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .listitem6, .ods_219f=
+0a2b-c982-4d24-a653-89d6f170d7ab .listitem7, .ods_219f0a2b-c982-4d24-a653-8=
+9d6f170d7ab .listitem8, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .listitem=
+9 { background-color: rgb(250, 251, 254); color: rgb(0, 0, 0); font-family:=
+ Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: norm=
+al; font-weight: normal; list-style-type: square; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .note { background-color: rgb(250=
+, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT", Hel=
+vetica, Helv; font-size: x-small; font-style: normal; font-weight: normal; =
+}
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .notebanner { background-color: r=
+gb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT=
+", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: bo=
+ld; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .notecontent { background-color: =
+rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AM=
+T", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: n=
+ormal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .notecontentfixed { background-co=
+lor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: "Courier New=
+", Courier; font-size: x-small; font-style: normal; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .output > colgroup { border-left:=
+ 1px solid rgb(193, 193, 193); border-right: 1px solid rgb(193, 193, 193); =
+}
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .output > tbody, .ods_219f0a2b-c9=
+82-4d24-a653-89d6f170d7ab .output > thead, .ods_219f0a2b-c982-4d24-a653-89d=
+6f170d7ab .output > tfoot { border-top: 1px solid rgb(193, 193, 193); borde=
+r-bottom: 1px solid rgb(193, 193, 193); }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .output { border: hidden; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .output { background-color: rgb(2=
+50, 251, 254); border: 1px solid rgb(193, 193, 193); border-collapse: separ=
+ate; border-spacing: 1px; color: rgb(0, 0, 0); font-family: Arial, "Albany =
+AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight:=
+ normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .pageno { background-color: rgb(2=
+50, 251, 254); border-spacing: 0px; color: rgb(17, 34, 119); font-family: A=
+rial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal=
+; font-weight: bold; text-align: right; vertical-align: top; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .pages { background-color: rgb(25=
+0, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvet=
+ica, Helv; font-size: x-small; font-style: normal; font-weight: normal; lis=
+t-style-type: decimal; margin-left: 8px; margin-right: 8px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .pagesdate { background-color: rg=
+b(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", He=
+lvetica, Helv; font-size: x-small; font-style: normal; font-weight: normal;=
+ width: 100%; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .pagesitem { color: rgb(0, 0, 0);=
+ font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; fon=
+t-style: normal; font-weight: normal; list-style-type: none; margin-left: 6=
+pt; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .pagesproclabel, .ods_219f0a2b-c9=
+82-4d24-a653-89d6f170d7ab .pagesprocname { background-color: rgb(250, 251, =
+254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT", Helvetica,=
+ Helv; font-size: x-small; font-style: normal; font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .pagestitle { background-color: r=
+gb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT=
+", Helvetica, Helv; font-size: x-small; font-style: italic; font-weight: bo=
+ld; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .paragraph { background-color: rg=
+b(250, 251, 254); color: rgb(0, 0, 0); font-family: Arial, "Albany AMT", He=
+lvetica, Helv; font-size: x-small; font-style: normal; font-weight: normal;=
+ }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .parskip > col, .ods_219f0a2b-c98=
+2-4d24-a653-89d6f170d7ab .parskip > colgroup > col, .ods_219f0a2b-c982-4d24=
+-a653-89d6f170d7ab .parskip > colgroup, .ods_219f0a2b-c982-4d24-a653-89d6f1=
+70d7ab .parskip > tr, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .parskip > =
+* > tr, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .parskip > thead, .ods_21=
+9f0a2b-c982-4d24-a653-89d6f170d7ab .parskip > tbody, .ods_219f0a2b-c982-4d2=
+4-a653-89d6f170d7ab .parskip > tfoot { border-width: medium; border-style: =
+none; border-color: currentcolor; border-image: none; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .parskip { border-width: medium; =
+border-style: none; border-color: currentcolor; border-image: none; border-=
+spacing: 0px; font-family: Arial, "Albany AMT", Helvetica, Helv; font-size:=
+ x-small; font-style: normal; font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .prepage { background-color: rgb(=
+250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT", =
+Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: norma=
+l; text-align: left; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .proctitle { background-color: rg=
+b(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT"=
+, Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: bol=
+d; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .proctitlefixed { background-colo=
+r: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: "Courier New",=
+ Courier, monospace; font-size: x-small; font-style: normal; font-weight: b=
+old; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowfooter { background-color: rg=
+b(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; bo=
+rder-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial, "=
+Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-=
+weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowfooteremphasis { background-c=
+olor: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: s=
+olid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: =
+Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: itali=
+c; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowfooteremphasisfixed { backgro=
+und-color: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-sty=
+le: solid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-fam=
+ily: "Courier New", Courier, monospace; font-size: x-small; font-style: ita=
+lic; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowfooterempty { background-colo=
+r: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Ari=
+al, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; =
+font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowfooterfixed { background-colo=
+r: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: "Co=
+urier New", Courier; font-size: x-small; font-style: normal; font-weight: n=
+ormal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowfooterstrong { background-col=
+or: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: sol=
+id; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Ar=
+ial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal;=
+ font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowfooterstrongfixed { backgroun=
+d-color: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style=
+: solid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-famil=
+y: "Courier New", Courier, monospace; font-size: x-small; font-style: norma=
+l; font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowheader { background-color: rg=
+b(237, 242, 249); border-color: rgb(176, 183, 187); border-style: solid; bo=
+rder-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Arial, "=
+Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-=
+weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowheaderemphasis { background-c=
+olor: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: s=
+olid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: =
+Arial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: itali=
+c; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowheaderemphasisfixed { backgro=
+und-color: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-sty=
+le: solid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-fam=
+ily: "Courier New", Courier, monospace; font-size: x-small; font-style: ita=
+lic; font-weight: normal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowheaderempty { background-colo=
+r: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Ari=
+al, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal; =
+font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowheaderfixed { background-colo=
+r: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: soli=
+d; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: "Co=
+urier New", Courier; font-size: x-small; font-style: normal; font-weight: n=
+ormal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowheaderstrong { background-col=
+or: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style: sol=
+id; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-family: Ar=
+ial, "Albany AMT", Helvetica, Helv; font-size: x-small; font-style: normal;=
+ font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .rowheaderstrongfixed { backgroun=
+d-color: rgb(237, 242, 249); border-color: rgb(176, 183, 187); border-style=
+: solid; border-width: 0px 1px 1px 0px; color: rgb(17, 34, 119); font-famil=
+y: "Courier New", Courier, monospace; font-size: x-small; font-style: norma=
+l; font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systemfooter, .ods_219f0a2b-c982=
+-4d24-a653-89d6f170d7ab .systemfooter10, .ods_219f0a2b-c982-4d24-a653-89d6f=
+170d7ab .systemfooter2, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systemfo=
+oter3, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systemfooter4, .ods_219f0=
+a2b-c982-4d24-a653-89d6f170d7ab .systemfooter5, .ods_219f0a2b-c982-4d24-a65=
+3-89d6f170d7ab .systemfooter6, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .s=
+ystemfooter7, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systemfooter8, .od=
+s_219f0a2b-c982-4d24-a653-89d6f170d7ab .systemfooter9 { background-color: r=
+gb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT=
+", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: no=
+rmal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systemtitle, .ods_219f0a2b-c982-=
+4d24-a653-89d6f170d7ab .systemtitle10, .ods_219f0a2b-c982-4d24-a653-89d6f17=
+0d7ab .systemtitle2, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systemtitle=
+3, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systemtitle4, .ods_219f0a2b-c=
+982-4d24-a653-89d6f170d7ab .systemtitle5, .ods_219f0a2b-c982-4d24-a653-89d6=
+f170d7ab .systemtitle6, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systemti=
+tle7, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systemtitle8, .ods_219f0a2=
+b-c982-4d24-a653-89d6f170d7ab .systemtitle9 { background-color: rgb(250, 25=
+1, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT", Helveti=
+ca, Helv; font-size: small; font-style: normal; font-weight: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systitleandfootercontainer > col=
+, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systitleandfootercontainer > c=
+olgroup > col, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systitleandfooter=
+container > colgroup, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systitlean=
+dfootercontainer > tr, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systitlea=
+ndfootercontainer > * > tr, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .syst=
+itleandfootercontainer > thead, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .=
+systitleandfootercontainer > tbody, .ods_219f0a2b-c982-4d24-a653-89d6f170d7=
+ab .systitleandfootercontainer > tfoot { border-width: medium; border-style=
+: none; border-color: currentcolor; border-image: none; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .systitleandfootercontainer { bac=
+kground-color: rgb(250, 251, 254); border-width: medium; border-style: none=
+; border-color: currentcolor; border-image: none; border-spacing: 1px; colo=
+r: rgb(0, 0, 0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-si=
+ze: x-small; font-style: normal; font-weight: normal; width: 100%; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .table > col, .ods_219f0a2b-c982-=
+4d24-a653-89d6f170d7ab .table > colgroup > col { border-left: 1px solid rgb=
+(193, 193, 193); border-right: 0px solid rgb(193, 193, 193); }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .table > tr, .ods_219f0a2b-c982-4=
+d24-a653-89d6f170d7ab .table > * > tr { border-top: 1px solid rgb(193, 193,=
+ 193); border-bottom: 0px solid rgb(193, 193, 193); }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .table { border: hidden; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .table { border-color: rgb(193, 1=
+93, 193); border-style: solid; border-width: 1px 0px 0px 1px; border-collap=
+se: collapse; border-spacing: 0px; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .titleandnotecontainer > col, .od=
+s_219f0a2b-c982-4d24-a653-89d6f170d7ab .titleandnotecontainer > colgroup > =
+col, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .titleandnotecontainer > col=
+group, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .titleandnotecontainer > t=
+r, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .titleandnotecontainer > * > t=
+r, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .titleandnotecontainer > thead=
+, .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .titleandnotecontainer > tbody,=
+ .ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .titleandnotecontainer > tfoot {=
+ border-width: medium; border-style: none; border-color: currentcolor; bord=
+er-image: none; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .titleandnotecontainer { backgrou=
+nd-color: rgb(250, 251, 254); border-width: medium; border-style: none; bor=
+der-color: currentcolor; border-image: none; border-spacing: 1px; color: rg=
+b(0, 0, 0); font-family: Arial, "Albany AMT", Helvetica, Helv; font-size: x=
+-small; font-style: normal; font-weight: normal; width: 100%; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .titlesandfooters { background-co=
+lor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Alba=
+ny AMT", Helvetica, Helv; font-size: x-small; font-style: normal; font-weig=
+ht: bold; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .usertext { background-color: rgb=
+(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT",=
+ Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: norm=
+al; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab a:visited { color: rgb(128, 0, 12=
+8); }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .warnbanner { background-color: r=
+gb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AMT=
+", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: bo=
+ld; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .warncontent { background-color: =
+rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: Arial, "Albany AM=
+T", Helvetica, Helv; font-size: x-small; font-style: normal; font-weight: n=
+ormal; }
+
+.ods_219f0a2b-c982-4d24-a653-89d6f170d7ab .warncontentfixed { background-co=
+lor: rgb(250, 251, 254); color: rgb(17, 34, 119); font-family: "Courier New=
+", Courier; font-size: x-small; font-style: normal; font-weight: normal; }
+------MultipartBoundary--0hcjBbLxs4h4NaO1ELI6JSYKN7sFdtLOPBkrH4xTjv------
