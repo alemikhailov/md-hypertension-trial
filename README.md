@@ -26,7 +26,6 @@ database, not to produce a scientific finding.
 | Visits | 7 (Screening, Baseline, Weeks 2/4/8/12, Follow-up Week 14) |
 | Primary endpoint | Change from baseline in seated systolic blood pressure at Week 12 |
 
-Full details in [`docs/MHT-2026-001_Protocol_Synopsis.docx`](docs/).
 
 ---
 
